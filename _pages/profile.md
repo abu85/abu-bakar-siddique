@@ -126,7 +126,7 @@ classes: wide
             Research topics: <u>plant physiology</u>, <u>gene expression</u></p></li>
         </ul>
             <p><i>Note: Family leave for approximately nine months after PhD studies (2017–2018).</i></p>
-        </ul>
+        
         <br>
 
 	<h3 class="toggle-button" onclick="toggleVisibility('presentations', this)">
