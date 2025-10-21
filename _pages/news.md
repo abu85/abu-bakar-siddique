@@ -78,6 +78,7 @@ classes: wide
 <div class="container">
     <!-- Instagram Gallery -->
     <div class="image-grid">
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7384599261256048640?collapsed=1" height="603" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
         <a href="https://www.instagram.com/p/CuZKxFGPk0O/" target="_blank">
             <img src="../images/news/2307_SNU.jpg" alt="2307_SNU"></a>
         <a href="https://www.instagram.com/p/CZvYXxmPGwq/" target="_blank">
