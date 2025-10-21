@@ -80,48 +80,52 @@ classes: wide
     <div class="intro">
         <h3>Research Interests</h3> 
         <ul>
-            <li>Evolutionary Animal Genomics
-            <p>cross-species and -breeds, genomic innovation</p></li>
-            <li>Comparative Cancer & Aging Biology
-            <p>disease resistance & susceptibility</p></li>
+            <li>Environmental and Evolutionary Genomics
+            <p>Airborne eDNA, bryophyte phenology, cross-species genomic shifts</p></li>
             <li>Computational Multi-Omics
-            <p>genome, transcriptome, epigenome, proteome, AI (ML & DL)</p></li>
+            <p>Genome, transcriptome, epigenome, proteome; AI-driven analysis (ML & DL)</p></li>
+            <li>Comparative Biology
+            <p>Phenology, biodiversity, disease resistance, aging biology</p></li>
         </ul>
         <br>
 
         <h3>Education</h3>
         <ul>
-            <li>Ph.D., Veterinary Biomedical Sciences (03/2019 – 08/2025)
-            <p>College of Veterinary Medicine, Seoul National University, Seoul, KR</p></li>
-            <li>M.S., Microbiology and Biotechnology  (03/2016 – 02/2018)
-            <p>College of Natural Sciences, Dankook University, Cheonan, KR</p></li>
-            <li>B.S., Microbiology and Biotechnology (03/2010 – 02/2016)
-            <p>College of Natural Sciences, Dankook University, Cheonan, KR</p></li>
-            <li>Military Service (Sergeant, Medic)  (11/2011 – 09/2013)
-            <p>1st Brigade, Aviation Operations Command, Republic of Korea Army</p></li>
+            <li>Ph.D., Molecular Ecology (12/2013 – 09/2017)
+            <p>Greifswald University, Germany</p></li>
+            <li>M.S., Ecology (08/2010 – 05/2013)
+            <p>Umeå University, Umeå, Sweden</p></li>
+            <li>M.S., Plant Pathology (03/2008 – 07/2010)
+            <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>
+            <li>B.Sc.Ag(Hons), Agriculral Science (01/2004 – 03/2008)
+            <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>            
         </ul>
         <br>
 
         <h3>Research Experience</h3>
         <ul>
-            <li>Graduate Research Associate, <a href="https://vetbio.snu.ac.kr/" target="_blank" style="color: inherit; ">Je-Yoel Cho</a> (02/2019 – 08/2025)
-            <p>Comparative Medicine Disease Research Center (CDRC), Seoul National University, Seoul, KR<br>
-            Research topics: <u>cross-breed cancer genomics</u>, <u>dog epigenomics</u></p></li>
-            <li>Collaborative Research Fellow, Je-Yoel Cho (06/2017 – 02/2019)
-            <p>College of Veterinary Medicine, Seoul National University, Seoul, KR<br>
-            Research topics: <u>dog epigenomics</u>, <u>cancer biomarkers</u></p></li>
-            <li>Collaborative Research Fellow, Jueng Soo You (03/2017 – 02/2019)
-            <p>Research Institute of Medical Science, Konkuk University, Seoul, KR<br>
-            Research topics: <u>cancer mechanism</u>, <u>chromatin remodeler (SWI/SNF complexes)</u> </p></li>
-            <li>Collaborative Research Fellow, <a href="https://www.namswlab.com/" target="_blank" style="color: inherit; ">Suk Woo Nam</a> (03/2017 – 02/2018)
-            <p>College of Medicine, Catholic University, Seoul, KR<br>
-            Research topics: <u>cancer mechanism</u>, <u>histone modification</u>, <u>miRNA-editing</u></p></li>
-            <li>Graduate Research Associate, Keunsoo Kang (03/2016 – 02/2018)
-            <p>College of Natural Sciences, Dankook University, Cheonan, KR<br>
-            Research topics: <u>bioinformatics</u>, <u>epigenomics</u>, <u>regulatory elements</u></p></li>
-            <li>Undergraduate Researcher, Keunsoo Kang (12/2014 – 02/2016)
-            <p>College of Natural Sciences, Dankook University, Cheonan, KR<br>
-            Research topics: <u>bioinformatics</u>, <u>epigenomics</u>, <u>transcription factors</u></p></li>
+            <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">Je-Yoel Cho</a> (06/2024 – Continue)
+            <p>Department of plant biology, SLU - Swedish University of Agricultural Sciences, Uppsala, Sweden<br>
+            Research topics: <u>Metagenomics(ITS, 16S, COI, 18S, eDNA: Short reads)</u>, <u>SLUBI</u></p></li>  
+            <li>Research Engineer (Forskningsingenjör), 2022-02-15 to 2024-05-31
+            <p>Department of Plant Biology, SLU - Swedish University of Agricultural Sciences, Uppsala, Sweden<br>
+            Research topics: <u>airborne eDNA</u>, <u>bryophyte phenology</u>, <u>multi-omics integration</u></p></li>  <li>Senior Research Engineer (Senior forskningsingenjör), 2022-01-06 to 2022-02-15
+            <p>Department of Ecology and Environmental Sciences, Umeå University, Umeå, Sweden<br>
+            Research topics: <u>environmental genomics</u>, <u>data integration</u></p></li>
+            <li>Post-doc Research Fellow (Forskare), from 2020-01-06
+            <p>Department of Ecology and Environmental Sciences, Umeå University, Umeå, Sweden<br>
+            Research topics: <u>phenology</u>, <u>comparative biology</u></p></li>
+            <li>Post-doc Research Fellow (Forskare), 2018-07-09 to 2019-10-31
+            <p>Department of Virology, Institute Of Plant Molecular Biology, Biology Centre CAS, Ceske Budejovice, Czech Republic<br>
+            Research topics: <u>plant virology</u>, <u>molecular biology</u></p></li>
+            <li>PhD Student (Doktorand), 2013-12-01 to 2017-05-31
+            <p>Institute of Botany and Landscape Ecology, Ernst-Moritz-Arndt Universität (Greifswald University),reifswald, Germany<br>
+            Research topics: <u>plant ecology</u>, <u>landscape genomics</u></p></li>
+            <li>Research Assistant (Forskningsassistent), 2012-07-01 to 2012-09-30
+            <p>Department of Plant Physiology, UPSC, Umeå University, Sweden<br>
+            Research topics: <u>plant physiology</u>, <u>gene expression</u></p></li>
+        </ul>
+            <p><i>Note: Family leave for approximately nine months after PhD studies (2017–2018).</i></p>
         </ul>
         <br>
 
