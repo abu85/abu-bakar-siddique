@@ -82,7 +82,6 @@ classes: wide
         <iframe src="https://www.linkedin.com/posts/marjhum-akter_attended-an-impactful-seminar-on-bioinformatics-activity-7361744320892194817-4o7O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA0Nx6EBI3OYbgGUoYJqLq9hv7LBwpedIPs" height="603" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
         <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7339221163610443777?collapsed=1" height="669" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
         <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7325068183889936384?collapsed=1" height="627" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
     </div>
     <!-- Twitter Embed -->
     <div class="twitter-embed">
