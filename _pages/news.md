@@ -78,11 +78,11 @@ classes: wide
 <div class="container">
     <!-- Instagram Gallery -->
     <div class="image-grid">
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7384599261256048640?collapsed=1" height="603" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-        <iframe src="https://www.linkedin.com/posts/marjhum-akter_attended-an-impactful-seminar-on-bioinformatics-activity-7361744320892194817-4o7O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA0Nx6EBI3OYbgGUoYJqLq9hv7LBwpedIPs" height="603" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7339221163610443777?collapsed=1" height="669" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7325068183889936384?collapsed=1" height="627" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7314915376692178944?collapsed=1" height="669" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7384599261256048640?collapsed=1" height="603" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7339221163610443777?collapsed=1" height="669" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7325068183889936384?collapsed=1" height="627" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7314915376692178944?collapsed=1" height="669" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
+        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fa.b.s.biplob%2Fposts%2Fpfbid035v9CoBimjZkwaJaC6JMwEMUeGftdqn65qf5xCGY7PGhz72h8fpvme5bVKnLCXJitl&show_text=true&width=500" width="500" height="805" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
     </div>
     <!-- Twitter Embed -->
     <div class="twitter-embed">
