@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "Abu Bakar Siddique"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Abu Bakar Siddique"
+name                     : ""
 description              : "I'm an evolutionary and cancer biologist"
 url                      : "https://abu85.github.io/abu-bakar-siddique/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "abu85/abu-bakar-siddique" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/images/index/KH.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     :  "/images/index/abu_2023" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     :  "/images/index/abu_2023.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
