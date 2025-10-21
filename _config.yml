@@ -12,35 +12,30 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Abu Bakar Siddique"
+title                    : "Keun Hong"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Abu Bakar SIddique"
-description              : "I am a Bioinformatician and molecular ecologist."
-url                      : "https://abu-bakar-siddique.github.io"
+name                     : "Keun Hong"
+description              : "I'm an evolutionary and cancer biologist"
+url                      : "https://keun-hong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "abu85/abu-bakar-siddique" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # "/images/index/abs.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "keun-hong/keun-hong.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # "/images/index/KH.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     :  "/images/index/KH.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : "false" # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
-copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # "abu" 
+    shortname            : # "keun-hong"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook               : # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -54,11 +49,6 @@ comments:
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
     theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-    strict               : # 1 for enabled, 0 for disabled (default)
-    input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
-    emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
-    lang                 : # "en" (default)
-    lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -83,8 +73,8 @@ google:
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
-bing_site_verification   :
-naver_site_verification  :
+bing_site_verification   : "0BF386176CE8DBF5FD091C5C6EC9B4C9"
+naver_site_verification  : "bafcc65c4b2c3483b77e97505a5cd16a1f059d9d"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -105,41 +95,47 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-Y0GRY3CW8D"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Abu Bakar Siddique"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Sweden"
+  name             : # "Keun Hong Son"
+  avatar           : # "/images/index/KH.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : # "I am an cancer & evolution biologist"
+  location         : "South Korea"
   email            :
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.slu.se/en/profilepages/s/abu-siddique/"
+    # - label: "Website"
+      # icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Sci-BS"
+      icon : "fa-brands fa-fw fa-bluesky"
+      url  : "https://bsky.app/profile/keun-hong.bsky.social"
     - label: "Sci-X"
       icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/abu"
+      url: "https://twitter.com/new__hong"
     - label: "Sci-LI"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/abu-bakar-siddique-11541861/"
+      url: "https://www.linkedin.com/in/keun-hong"
     - label: "Sci-FB"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/biplobsau"
+      url: "https://www.facebook.com/keunhong.son"
     - label: "Sci-YT"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@biplobsau"
+      url: "https://www.youtube.com/@keun-hong"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/abu85"
+      url: "https://github.com/keun-hong"
+    - label: "Life"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/new__hong/"
     #- label: "Email"
       # icon: "fas fa-fw fa-envelope-square"
-      # url: "abu.siddique@slu.se"
+      # url: "newhong@snu.ac.kr"
 
 # Site Footer
 # footer:
@@ -149,10 +145,13 @@ author:
 #      url: "https://twitter.com/new__hong"
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
-#      url: "https://www.facebook.com/a.b.s.biplob"
+#      url: "https://www.facebook.com/keunhong.son"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/abu85"
+#      url: "https://github.com/keun-hong"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://www.instagram.com/new__hong/"
 
 
 # Reading Files
