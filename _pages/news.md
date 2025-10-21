@@ -26,7 +26,7 @@ classes: wide
             margin: 0 auto;
             box-sizing: border-box;
         }
-        /* Instagram gallery grid */
+        /* Linkedin gallery grid */
         .image-grid {
             flex-basis: 60%; /* Image section takes up 60% of the container width */
             display: grid;
@@ -88,6 +88,7 @@ classes: wide
     <div class="twitter-embed">
         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">SLU&#39;s day of Bioinformatics,<br>lovely gathering, talks and discussions!!<a href="https://twitter.com/PlantSlu?ref_src=twsrc%5Etfw">@PlantSlu</a> <a href="https://twitter.com/SLUpostdocs?ref_src=twsrc%5Etfw">@SLUpostdocs</a> <a href="https://t.co/3Cn4RFb98v">pic.twitter.com/3Cn4RFb98v</a></p>&mdash; Abu B Siddique (@absiddique85) <a href="https://twitter.com/absiddique85/status/1706304748926685625?ref_src=twsrc%5Etfw">September 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
+
 </div>
 
 </body>
