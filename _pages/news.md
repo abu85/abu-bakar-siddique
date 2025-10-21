@@ -76,8 +76,7 @@ classes: wide
 <body>
 
 <div class="container">
-    <!-- Linkedin Gallery -->
-    <div class="image-grid">
+    <!-- Linkedin Gallery -->    
     <div style="display: flex; flex-direction: column; gap: 20px;">
         <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7384599261256048640?collapsed=1" height="603" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
         <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7339221163610443777?collapsed=1" height="669" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
