@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abu Bakar Siddique"
+title                    : ""
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
@@ -25,7 +25,7 @@ url                      : "https://abu85.github.io/abu-bakar-siddique/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "abu85/abu-bakar-siddique" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/images/index/KH.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     :  "/images/index/abu_2023.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     :  "/images/index/Abu_2023.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : # "Abu Bakar Siddique"
-  avatar           : # "/images/index/KH.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # "/images/index/Abu_2023.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an cancer & evolution biologist"
   location         : "Sweden"
   email            :
@@ -120,7 +120,7 @@ author:
       url: "https://www.linkedin.com/in/abu-bakar-siddique-11541861/"
     - label: "Sci-FB"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/biplobsau"
+      url: "https://www.facebook.com/a.b.s.biplob"
     - label: "Sci-YT"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@biplobsau"
