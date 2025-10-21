@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 #gemspec
 
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.3.2"
 gem "minimal-mistakes-jekyll", "~> 4.0"
 gem "jekyll-sitemap", "~> 1.3"
 gem "jekyll-feed", "~> 0.17"
