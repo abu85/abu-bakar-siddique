@@ -106,8 +106,8 @@ classes: wide
     <!-- Twitter Embed -->
     <div class="twitter-embed">
         <blockquote class="twitter-tweet">
-            <p lang="en" dir="ltr">Exciting news! Our lab’s latest paper in @ScienceAdvances on mapping the dog epigenome is out 🐕🎶! Close collaboration with my co-first authors...</p>
-            <a href="https://twitter.com/new__hong/status/1676900193747488768"></a>
+            <p lang="en" dir="ltr">SLU's day of Bioinformatics,lovely gathering,  talks and discussions!! @PlantSlu @SLUpostdocs</p>
+            <a href="https://x.com/absiddique85/status/1706304748926685625"></a>
         </blockquote>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
