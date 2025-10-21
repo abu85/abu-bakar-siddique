@@ -1,0 +1,99 @@
+---
+layout: default
+classes: wide
+---
+
+<style>
+  .archive__item-header {
+    display: flex;
+    justify-content: space-between; /* Position text and thumbnail at opposite ends */
+    align-items: flex-start; /* Align to the top */
+  }
+
+  .archive__item-text {
+      flex-grow: 1; /* Allow the text portion to occupy the available space */
+      margin-right: 10px; /* Space between text and thumbnail */
+  }
+
+  .archive__item-thumbnail {
+      flex-shrink: 0; /* Prevent the thumbnail from shrinking */
+  }
+
+  .archive__item-thumbnail img {
+      width: 7rem;  /* Adjust thumbnail size */
+      height: 5.25rem; /* Adjust thumbnail size */
+      object-fit: cover;
+      border-radius: 3%;
+  }
+
+
+  .search__item-header {
+    display: flex;
+    justify-content: space-between; /* Position text and thumbnail at opposite ends */
+    align-items: flex-start; /* Align to the top */
+  }
+
+  .search__item-title {
+    font-size: 0.8rem; /* 원하는 크기로 변경 */
+  }
+
+  .search__item-text {
+      flex-grow: 1; /* Allow the text portion to occupy the available space */
+      margin-right: 10px; /* Space between text and thumbnail */
+  }
+
+  .search__item-thumbnail {
+      flex-shrink: 0; /* Prevent the thumbnail from shrinking */
+  }
+
+  .search__item-thumbnail img {
+      width: 7rem;  /* Adjust thumbnail size */
+      height: 5.25rem; /* Adjust thumbnail size */
+      object-fit: cover;
+      border-radius: 3%;
+  }
+
+  .search__item-margin {
+    margin-bottom: 0.5rem; /* Set bottom margin to create space between items */
+  }
+
+  .search__item-bottom-margin {
+    margin-bottom: 2rem; /* Add bottom margin to create space between items */
+  }
+
+  .search__separator {
+    border: 0;
+    height: 2px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  }
+</style>
+
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+
+    
+    <!--
+      home.html 내용 들어가는 부분
+      즉, main 화면 전체 내용 (Introduction & Recent posts) 들어가는 곳
+    -->
+    {{ content }}
+  </div>
+</div>

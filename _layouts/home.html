@@ -1,0 +1,64 @@
+---
+layout: archive
+---
+
+<!--
+  index.html 내용 들어가는 부분
+  즉, Introduction (사진과 글) 들어가는 곳
+-->
+{{ content }}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+<!--
+  작성한 글의 categories를 메인페이지에서도 보여주기위해
+  categories.html 코드의 일부를 copy 후 아래와 같이 코드 수정함.
+  "href="#{{ category[0] | slugify }}"  ->   "href="categories/#{{ category[0] | slugify }}"
+-->
+{% assign categories_max = 0 %}
+{% for category in site.categories %}
+  {% if category[1].size > categories_max %}
+    {% assign categories_max = category[1].size %}
+  {% endif %}
+{% endfor %}
+
+<ul class="taxonomy__index">
+  {% for i in (1..categories_max) reversed %}
+    {% for category in site.categories %}
+      {% if category[1].size == i %}
+        <li>
+          <a href="categories/#{{ category[0] | slugify }}">
+            <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
+
+<!--
+  Recent posts 내용 간격 조정을 위해, archive-single.html 수정
+-->
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    <!-- 
+      최근 게시물에 특정 페이지 제외하기 위해 두 line (% unless & % endunless)  추가.
+      특정 post 게시물 내에서는 exclude_from_home: true 추가
+    -->
+    {% unless post.exclude_from_home %}
+      {% include archive-single.html type=entries_layout %}
+    {% endunless %}
+  {% endfor %}
+</div>
+<!--
+  메인 페이지의 Recent posts에서 더 많은 글들을 볼 수 있도록 하는 기능.
+  불필요해 비활성화 함.
+{% include paginator.html %}
+-->
