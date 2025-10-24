@@ -157,32 +157,30 @@ classes: wide
     <strong>Transcriptomic responses of beet to infection by beet mild yellowing virus.</strong><br>
     <p>
     Puthanveed V&#8224;, Sajeevan RS,<strong>Siddique AB</strong>, Alexandersson E, Joshi P, Snell P, Lennefors BL, &amp; Kvarnheden A*.<br>
-    <strong><em>BMC Plant Biol.</em></strong> 2025 (<a href="https://www.nature.com/articles/s41598-025-06296-z" target="_blank" style="color: inherit; ">Article</a>, <a href="https://rdcu.be/eL44q" target="_blank" style="color: inherit; ">PDF</a>)
+    <strong><em>BMC Plant Biol.</em></strong> 2025 (<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-025-07514-6" target="_blank" style="color: inherit; ">Article</a>, <a href="https://rdcu.be/eL44q" target="_blank" style="color: inherit; ">PDF</a>)
     </p>
-    <strong>Extracellular vesicle-mediated transfer of miRNA-1 from primary tumor repress distant metastasis growth</strong><br>
+    <strong>A cost-effective and efficient strategy for Illumina sequencing of fungal communities: a case study of beech endophytes identified elevation as main explanatory factor.</strong><br>
     <p>
-    Kim C&#8224;, Lee K, <strong>Son KH</strong>, Shin T, &amp; Cho J*.<br>
-    <strong><em>Exp Mol Med.</em></strong> 2024 (<a href="https://www.nature.com/articles/s12276-024-01181-7" target="_blank" style="color: inherit; ">Article</a>, <a href="https://www.nature.com/articles/s12276-024-01181-7.pdf" target="_blank" style="color: inherit; ">PDF</a>)
+    Siddique AB, Unterseher M.<br>
+    <strong><em>Fungal Ecology</em></strong> 2016 ( #Article</a>, #PDF</a> )
     </p>
-    <strong>ADAR1-dependent miR-3144-3p editing simultaneously induces MSI2 expression and suppresses SLC38A4 expression in liver cancer</strong><br>
+
+    <strong>Diversity and Composition of the Leaf Mycobiome of Beech (Fagus sylvatica) Are Affected by Local Habitat Conditions and Leaf Biochemistry.</strong><br>
     <p>
-    Kim HS&#8224;, Na MJ&#8224;, <strong>Son KH</strong>, Yang HD, Kim SY, Shin E, Ha JW, Jeon S, Kang K, Moon K, Park WS, &amp; Nam SW*.<br>
-    <strong><em>Exp Mol Med.</em></strong> 2023 (<a href="https://www.nature.com/articles/s12276-022-00916-8" target="_blank" style="color: inherit; ">Article</a>, <a href="https://www.nature.com/articles/s12276-022-00916-8.pdf" target="_blank" style="color: inherit; ">PDF</a>)
+    Unterseher M, Siddique AB, Brachmann A, Peršoh D.<br>
+    <strong><em>PLOS ONE</em></strong> 2016 ( <a href="#" target="_blank" style="color: inherit;">Article</a>, <a href="#" target="_blank" style="colorequencing and cultivation of leaf-inhabiting endophytes from beech (Fagus sylvatica L.) revealed complementary insights.</strong><br>
+    <p>
+    Siddique AB, Khokon AM, Unterseher M.<br>
+    <strong><em>MycoKeys</em></strong> 2017 ( <a href="#" target="_blank" style="color: inherit;">Article</a>, <a href="#" targetn endophyte communities.</strong><br>
+    <p>
+    Albrectsen BR, Siddique AB, Decker VHG, Unterseher M, Robinson KM.<br>
+    <strong><em>Oecologia</em></strong> 2018 ( #Article</a>, #PDF</a> )
     </p>
-    <strong>Senescence and impaired DNA damage responses in alpha-synucleinopathy models</strong><br>
+
+    <strong>Cytogenetics and Consequences of Polyploidization on Different Biotic-Abiotic Stress Tolerance and the Potential Mechanisms Involved.</strong><br>
     <p>
-    Yoon Y&#8224;, You JS&#8224;, Kim T, Ahn WJ, Kim MJ, <strong>Son KH</strong>, Ricarte D, Ortiz D, Lee S*, &amp; Lee H*.<br>
-    <strong><em>Exp Mol Med.</em></strong> 2022 (<a href="https://www.nature.com/articles/s12276-022-00727-x" target="_blank" style="color: inherit; ">Article</a>, <a href="https://www.nature.com/articles/s12276-022-00727-x.pdf" target="_blank" style="color: inherit; ">PDF</a>)
-    </p>
-    <strong>SMARCA4 oncogenic potential via IRAK1 enhancer to activate Gankyrin and AKR1B10 in liver cancer</strong><br>
-    <p>
-    Kim SY&#8224;, Shen Q, <strong>Son K</strong>, Kim HS, Yang HD, Na MJ, Shin E, Yu S, Kang K, You JS, Yu K, Jeong SM, Lee EK, Ahn YM, Park WS, &amp; Nam SW*.<br>
-    <strong><em>Oncogene.</em></strong> 2021 (<a href="https://www.nature.com/articles/s41388-021-01875-6" target="_blank" style="color: inherit; ">Article</a>, <a href="https://www.nature.com/articles/s41388-021-01875-6.pdf" target="_blank" style="color: inherit; ">PDF</a>)
-    </p>
-    <strong>Transcriptome Signatures of Canine Mammary Gland Tumors and Its Comparison to Human Breast Cancers</strong><br>
-    <p>
-    Lee K&#8224;, Park H&#8224;, <strong>Son KH</strong>, Shin T, &amp; Cho J*.<br>
-    <strong><em>Cancers (Basel).</em></strong> 2018 (<a href="https://www.mdpi.com/2072-6694/10/9/317" target="_blank" style="color: inherit; ">Article</a>, <a href="https://www.mdpi.com/2072-6694/10/9/317/pdf?version=1536322358" target="_blank" style="color: inherit; ">PDF</a>)
+    Islam MM, Siddique AB, et al.<br>
+    <strong><em>Plants</em></strong> 2022 ( <a href="#" target="_blank" style="color: inherit;">Article</a>, <a href="#" target="_blank" style="color: inherit;">
     </p>
 </div>
 
