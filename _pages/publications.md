@@ -266,6 +266,35 @@ classes: wide
      <a href="[def]" target="_blank" style="color: inherit;">PDF</a>)
   </p>
 
+  <p>
+    <strong>Local Habitat Conditions, Leaf Biochemistry and Seasonal Variations Drive Fungal Community Dynamics.</strong><br>
+    <strong>Siddique AB</strong>.<br>
+    <em><strong>Ernst-Moritz-Arndt University</strong></em>, PhD Thesis, 2017 (<a href="[def]" target="_blank" style="color: inherit;">Link</a>)
+  </p>
+
+  <!-- 2016 -->
+  <p>
+    <strong>Diversity and Composition of the Leaf Mycobiome of Beech (Fagus sylvatica) Are Affected by Local Habitat Conditions and Leaf Biochemistry.</strong><br>
+    Unterseher M, <strong>Siddique AB</strong>, Brachmann A, Peršoh D.<br>
+    <em><strong>PLOS ONE</strong></em>, 2016 (<a href="[def]" target="_blank" style="color: inherit;">PDF</a>)
+  </p>
+
+  <p>
+    <strong>A cost-effective and efficient strategy for Illumina sequencing of fungal communities: a case study of beech endophytes identified elevation as main explanatory factor.</strong><br>
+    <strong>Siddique AB</strong>, Unterseher M.<br>
+    <em><strong>Fungal Ecology</strong></em>, 2016 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, 
+    <a href="[def]" target="_blank" style="color: inherit;">PDF</a>)
+  </p>
+
+  <p>
+    <strong>Corrigendum to “A cost-effective and efficient strategy for Illumina sequencing of fungal communities…”</strong><br>
+    <strong>Siddique AB</strong>, Unterseher M.<br>
+    <em><strong>Fungal Ecology</strong></em>, 2016 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, 
+    <a href="[def]" target="_blank" style="color: inherit;">PDF</a>)
+  </p>
+
+[def]: https://doi.org/10.1016/j.funeco.2015.12.00
+
 </div>
 
 <div style="text-align: left;">
@@ -273,4 +302,4 @@ classes: wide
   <img src="../images/publications/Publications.jpg" alt="image" width="800" style="display: block;">
 </div>
 
-[def]: ttps://doi.org/10.1016/j.funeco.2015.12.00
+[def]: https://doi.org/10.1016/j.funeco.2015.12.00
