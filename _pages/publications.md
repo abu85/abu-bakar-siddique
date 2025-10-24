@@ -156,31 +156,88 @@ classes: wide
 <div class="second-author">
     <strong>Transcriptomic responses of beet to infection by beet mild yellowing virus.</strong><br>
     <p>
-    Puthanveed V&#8224;, Sajeevan RS,<strong>Siddique AB</strong>, Alexandersson E, Joshi P, Snell P, Lennefors BL, &amp; Kvarnheden A*.<br>
+    Puthanveed V&#8224;, Sajeevan RS, <strong>Siddique AB</strong>, Alexandersson E, Joshi P, Snell P, Lennefors BL, &amp; Kvarnheden A*.<br>
     <strong><em>BMC Plant Biol.</em></strong> 2025 (<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-025-07514-6" target="_blank" style="color: inherit; ">Article</a>, <a href="https://rdcu.be/eL44q" target="_blank" style="color: inherit; ">PDF</a>)
     </p>
     <strong>A cost-effective and efficient strategy for Illumina sequencing of fungal communities: a case study of beech endophytes identified elevation as main explanatory factor.</strong><br>
     <p>
     Siddique AB, Unterseher M.<br>
-    <strong><em>Fungal Ecology</em></strong> 2016 ( #Article</a>, #PDF</a> )
+    <strong><em>Fungal Ecology</em></strong> 2016 (<a href="[def]" target="_blank" style="color: inherit; ">Article</a>, <a href="[def]" target="_blank" style="color: inherit; ">PDF</a>)
+    </p>
+    <strong>A cost-effective and efficient strategy for Illumina sequencing of fungal communities: a case study of beech endophytes identified elevation as main explanatory factor.</strong><br>
+    <p>
+        <strong>Siddique AB</strong>, Unterseher M.<br>
+        <strong><em>Fungal Ecology</em></strong> 2016 (<a href="[]"target="_blank" style="color: inherit; ">Article</a>, [def]PDF</a>)
     </p>
 
     <strong>Diversity and Composition of the Leaf Mycobiome of Beech (Fagus sylvatica) Are Affected by Local Habitat Conditions and Leaf Biochemistry.</strong><br>
     <p>
-    Unterseher M, Siddique AB, Brachmann A, Peršoh D.<br>
-    <strong><em>PLOS ONE</em></strong> 2016 ( <a href="#" target="_blank" style="color: inherit;">Article</a>, <a href="#" target="_blank" style="colorequencing and cultivation of leaf-inhabiting endophytes from beech (Fagus sylvatica L.) revealed complementary insights.</strong><br>
-    <p>
-    Siddique AB, Khokon AM, Unterseher M.<br>
-    <strong><em>MycoKeys</em></strong> 2017 ( <a href="#" target="_blank" style="color: inherit;">Article</a>, <a href="#" targetn endophyte communities.</strong><br>
-    <p>
-    Albrectsen BR, Siddique AB, Decker VHG, Unterseher M, Robinson KM.<br>
-    <strong><em>Oecologia</em></strong> 2018 ( #Article</a>, #PDF</a> )
+        Unterseher M, <strong>Siddique AB</strong>, Brachmann A, Peršoh D.<br>
+        <strong><em>PLOS ONE</em></strong> 2016 (<a href="[]"target="_blank" style="color: inherit; ">Article</a>, [def]PDF</a>)
     </p>
 
-    <strong>Cytogenetics and Consequences of Polyploidization on Different Biotic-Abiotic Stress Tolerance and the Potential Mechanisms Involved.</strong><br>
+    <strong>What do we learn from cultures in the omics age? High-throughput sequencing and cultivation of leaf-inhabiting endophytes from beech (Fagus sylvatica L.) revealed complementary insights.</strong><br>
     <p>
-    Islam MM, Siddique AB, et al.<br>
-    <strong><em>Plants</em></strong> 2022 ( <a href="#" target="_blank" style="color: inherit;">Article</a>, <a href="#" target="_blank" style="color: inherit;">
+        <strong>Siddique AB</strong>, Khokon AM, Unterseher M.<br>
+        <strong><em>MycoKeys</em></strong> 2017 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, <a href="[def]" target="_blank" style="color: inherit><br>
+    <p>
+        Albrectsen BR, <strong>Siddique AB</strong>, Decker VHG, Unterseher M, Robinson KM.<br>
+        <strong><em>Oecologia</em></strong> 2018 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, <a href="[def]" targettion on Different Biotic-Abiotic Stress Tolerance and the Potential Mechanisms Involved.</strong><br>
+    <p>
+        Islam MM, <strong>Siddique AB</strong>, et al.<br>
+        <strong><em>Plants</em></strong> 2022 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, <a href="[def]" target="_blank" styleather Than by Habitat, and Community Analyses Suggest Competitive Interactions Among Twig Fungi.</strong><br>
+    <p>
+        <strong>Siddique AB</strong>, Biella P, Unterseher M, Albrectsen BR.<br>
+        <strong><em>Frontiers in Microbiology</em></strong> 2021 ([def]Article</a>, [def]PDF</a>)
+    </p>
+
+    <strong>Corrigendum to “A cost-effective and efficient strategy for illumina sequencing of fungal communities…”</strong><br>
+    <p>
+        <strong>Siddique AB</strong>, Unterseher M.<br>
+        <strong><em>Fungal Ecology</em></strong> 2016 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, <a href="[def]" target="_blank" style="color: inherit High-Throughput Illumina Sequencing to Study the Mycobiome of Aspen Leaves.</strong><br>
+    <p>
+        <strong>Siddique AB</strong>, Albrectsen BR, Ilbi H.<br>
+        <strong><em>Applied Sciences</em></strong> 2022 ([def]Article</a>, [def]PDF</a>)
+    </p>
+
+    <strong>Mycobiomes of sympatric Amorphophallus albispathus and Camellia sinensis – a case study reveals clear tissue preferences and differences in diversity.</strong><br>
+    <p>
+        Unterseher M, Karunarathna SC, Cruz GR, Dagamac NH, Dahl MB, <strong>Siddique AB</strong>.<br>
+        <strong><em>Mycological Progress</em></strong> 2018 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, <a href="[def forest fungi.</strong><br>
+    <p>
+        <strong>Siddique AB</strong>.<br>
+        <strong><em>Virus Genes</em></strong> 2020 (<a href="[def]" target="_blank" style="color: inheritts of endophytic fungi as a natural resource for the sustainability of crop production in the modern era of changing climate.</strong><br>
+    <p>
+        Nasif SO, <strong>Siddique AB</strong>, Islam M, Hassan O, Deepo DM.<br>
+        <strong><em>Symbiosis</em></strong> 2022 (<a href="[def]" target="_blank"
+    </p>
+
+    <strong>Milder autumns may increase risk for infection of crops with turnip yellows virus.</strong><br>
+    <p>
+        Puthanveed V, Singh K, Poimenopoulou E, Pettersson J, <strong>Siddique AB</strong>.<br>
+        <strong><em>Phytopathology</em></strong> 2023 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, <a href="[def]"f ecosystem biodiversity.</strong><br>
+    <p>
+        Sullivan AR, Karlsson E, Svensson D, Brindefalk B, Villegas JA, Mikko A, <strong>Siddique AB</strong>.<br>
+        <strong><em>bioRxiv</em></strong> 2023 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, <a href="[def]" target="_blank"by a mycovirus.</strong><br>
+    <p>
+        Petrzik K, <strong>Siddique AB</strong>.<br>
+        <strong><em>Archives of Virology</em></strong> 2019 ([def]Article</a>, [def]PDF</a>)
+    </p>
+
+    <strong>B Chromosomes in Wheat: Evolution, Functions and Breeding Potential.</strong><br>
+    <p>
+        Islam MM, Deepo DM, <strong>Siddique AB</strong>, Nasif SO, Zonayet M, Hassan O.<br>
+        <strong><em>Agronomy</em></strong> 2024 (<a href="[def]" target="_blank" style="color: inherit;">Article</a>, <a href="[def]" target="_blank" style="color: inherit;">PDF</a>)
+    tions, Leaf Biochemistry and Seasonal Variations Drive Fungal Community Dynamics.</strong><br>
+    <p>
+        <strong>Siddique AB</strong>.<br>
+        <strong><em>Ernst-Moritz-Arndt University</em></strong> 2017 (<a href="[def]" target="_blank)
+    </p>
+
+    <strong>Specialist Leaf Beetles Enrich Diversity of Endophytic Fungi in Aspen Leaves, and Mask Intra-specific Host Specificity.</strong><br>
+    <p>
+        Decker VH, <strong>Siddique AB</strong>, Albrectsen BR.<br>
+        <strong><em>Unpublished or in review</em></strong> ([def]Article</a>, [def]PDF</a>)
     </p>
 </div>
 
@@ -188,3 +245,5 @@ classes: wide
   <br>
   <img src="../images/publications/Publications.jpg" alt="image" width="800" style="display: block;">
 </div>
+
+[def]: ttps://doi.org/10.1016/j.funeco.2015.12.00
