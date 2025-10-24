@@ -117,7 +117,7 @@ classes: wide
             <p>Department of Virology, Institute Of Plant Molecular Biology, Biology Centre CAS, Ceske Budejovice, Czech Republic<br>
             Research topics: <u>Fungal virology</u>, <u>molecular biology</u></p></li>
             <li>PhD Student (Doktorand), 2013-12-01 to 2017-05-31
-            <p>Institute of Botany and Landscape Ecology, Ernst-Moritz-Arndt Universität (Greifswald University),reifswald, Germany<br>
+            <p>Institute of Botany and Landscape Ecology, Ernst-Moritz-Arndt Universität (Greifswald University),Greifswald, Germany<br>
             Research topics: <u>Leaf inhabiting endophytic fungi</u>, <u>ITS metabarcoding</u></p></li>
             <li>Research Assistant (Forskningsassistent), 2012-07-01 to 2012-09-30
             <p>Department of Plant Physiology, UPSC, Umeå University, Sweden<br>
