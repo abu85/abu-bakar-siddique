@@ -80,12 +80,10 @@ classes: wide
     <div class="intro">
         <h3>Research Interests</h3> 
         <ul>
-            <li>Environmental and Evolutionary Genomics
-            <p>Airborne eDNA, bryophyte phenology, cross-species genomic shifts</p></li>
+            <li>Environmental Metagenomics and Molecular Ecology
+            <p>Environmental monitoring (Disease and pest by Airborne eDNA), bryophyte phenology, metabarcoding, biodiversity, disease resistance</p></li>
             <li>Computational Multi-Omics
-            <p>Genome, transcriptome, epigenome, proteome; AI-driven analysis (ML & DL)</p></li>
-            <li>Comparative Biology
-            <p>Phenology, biodiversity, disease resistance, aging biology</p></li>
+            <p>Genome, transcriptome; AI-driven analysis (ML & DL)</p></li>
         </ul>
         <br>
 
@@ -104,26 +102,26 @@ classes: wide
 
         <h3>Research Experience</h3>
         <ul>
-            <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">Je-Yoel Cho</a> (06/2024 – Continue)
+            <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">SLUBI</a> (06/2024 – Continue)
             <p>Department of plant biology, SLU - Swedish University of Agricultural Sciences, Uppsala, Sweden<br>
             Research topics: <u>Metagenomics(ITS, 16S, COI, 18S, eDNA: Short reads)</u>, <u>SLUBI</u></p></li>  
             <li>Research Engineer (Forskningsingenjör), 2022-02-15 to 2024-05-31
             <p>Department of Plant Biology, SLU - Swedish University of Agricultural Sciences, Uppsala, Sweden<br>
             Research topics: <u>airborne eDNA</u>, <u>bryophyte phenology</u>, <u>multi-omics integration</u></p></li>  <li>Senior Research Engineer (Senior forskningsingenjör), 2022-01-06 to 2022-02-15
             <p>Department of Ecology and Environmental Sciences, Umeå University, Umeå, Sweden<br>
-            Research topics: <u>environmental genomics</u>, <u>data integration</u></p></li>
+            Research topics: <u>environmental metagenomics</u>,<u>airborne eDNA</u>, <u>bryophyte phenology</u>, <u>data integration</u></p></li>
             <li>Post-doc Research Fellow (Forskare), from 2020-01-06
             <p>Department of Ecology and Environmental Sciences, Umeå University, Umeå, Sweden<br>
-            Research topics: <u>phenology</u>, <u>comparative biology</u></p></li>
+            Research topics: <u>airborne eDNA</u>, <u>bryophyte phenology</u>, <u>multi-omics integration</u>,<u>phenology</u></p></li>
             <li>Post-doc Research Fellow (Forskare), 2018-07-09 to 2019-10-31
             <p>Department of Virology, Institute Of Plant Molecular Biology, Biology Centre CAS, Ceske Budejovice, Czech Republic<br>
-            Research topics: <u>plant virology</u>, <u>molecular biology</u></p></li>
+            Research topics: <u>Fungal virology</u>, <u>molecular biology</u></p></li>
             <li>PhD Student (Doktorand), 2013-12-01 to 2017-05-31
             <p>Institute of Botany and Landscape Ecology, Ernst-Moritz-Arndt Universität (Greifswald University),reifswald, Germany<br>
-            Research topics: <u>plant ecology</u>, <u>landscape genomics</u></p></li>
+            Research topics: <u>Leaf inhabiting endophytic fungi</u>, <u>ITS metabarcoding</u></p></li>
             <li>Research Assistant (Forskningsassistent), 2012-07-01 to 2012-09-30
             <p>Department of Plant Physiology, UPSC, Umeå University, Sweden<br>
-            Research topics: <u>plant physiology</u>, <u>gene expression</u></p></li>
+            Research topics: <u>fungal endophytes</u>, <u>molecular ecology</u></p></li>
         </ul>
             <p><i>Note: Family leave for approximately nine months after PhD studies (2017–2018).</i></p>
         
