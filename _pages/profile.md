@@ -80,34 +80,37 @@ classes: wide
     <div class="intro">
         <h3>Bioinformatic project accomplishments</h3> 
         <ul>
-            <li> Nine ampliseq data analysis
-            <p>
-            1.	ITS: Leaf inhabiting fungal endophytes of European Aspen tree,
-            2.	ITS: Leaf inhabiting fungal endophytes of European Beech tree,
-            3.	ITS: Leaf inhabiting fungal endophytes of Rye seeds and soils,
-            4.	18S: Sequencing of Arbuscular Mycorrhizal (AMF) Communities in Environmental Samples,
-            5.	COI: Wildflowers inhabiting terrestrial arthropods,
-            6.	ITS: Metagenomics of seeds (empty vs filled),
-            7.	16S: Leaf inhabiting fungal endophytes of Rye seeds and soils,
-            8.	16S: Water samples of different rivers of Bangladesh,
-            9.	16S: Human Gut microbiome</p></li>
+            <li> Nine ampliseq data analysis:            
+                <ol>
+                    <li>ITS: Leaf inhabiting fungal endophytes of European Aspen tree</li>
+                    <li>ITS: Leaf inhabiting fungal endophytes of European Beech tree</li>
+                    <li>ITS: Leaf inhabiting fungal endophytes of Rye seeds and soils</li>
+                    <li>18S: Sequencing of Arbuscular Mycorrhizal (AMF) Communities in Environmental Samples</li>
+                    <li>COI: Wildflowers inhabiting terrestrial arthropods</li>
+                    <li>ITS: Metagenomics of seeds (empty vs filled)</li>
+                    <li>16S: Leaf inhabiting fungal endophytes of Rye seeds and soils</li>
+                    <li>16S: Water samples of different rivers of Bangladesh</li>
+                    <li>16S: Human Gut microbiome</li>
+                </ol></li>
             <li> Three metagenomics data analysis:
-            <p>
-            1.	Airfilter data,
-            2.	Leaf litter data (Alder),
-            3.	Human gut microbiome</p>
+            <ol>
+                <li>Airfilter data</li>
+                <li>Leaf litter data (Alder)</li>
+                <li>Human gut microbiome</li>
+            </ol>
             <li> Ten RNASeq HTS data analysis and downstream analysis:
-            <p></li>
-            1.	Sugerbeet1, 
-            2.	Sugerbeet2,
-            3.	Potato1,
-            4.	Potato2,
-            5.	Potato3,
-            6.	Brassica oleracea,
-            7.	Red clover1,
-            8.	Red clover2,
-            9.	QTLSeq,
-            10.	Meta transcriptome Bioreactor</p></li>
+            <ol>
+                <li>Sugarbeet1</li>
+                <li>Sugarbeet2</li>
+                <li>Potato1</li>
+                <li>Potato2</li>
+                <li>Potato3</li>
+                <li>Brassica oleracea</li>
+                <li>Red clover1</li>
+                <li>Red clover2</li>
+                <li>QTLSeq</li>
+                <li>Meta transcriptome Bioreactor</li>
+            </ol>
         </ul>
         <br>
         <h3>Research Interests</h3> 
@@ -184,4 +187,3 @@ classes: wide
         </ul>
             <p><i>Note: Family leave for approximately nine months after PhD studies (2017–2018).</i></p>
             <br>
-</body>
