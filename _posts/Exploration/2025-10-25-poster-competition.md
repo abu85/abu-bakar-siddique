@@ -4,7 +4,7 @@ title: "[Exploration] Poster competition: What makes it a good poster"
 categories: Exploration
 tags: [poster presentation]
 header:
-  teaser: /images/thumnail/2025_10_25_poster_comp.jpg
+  teaser: ./images/thumnail/2025_10_25_poster_comp.jpg
 ---
 
 Title: When Ideas, Content, and Analysis Converge — Reflections on Evaluating 25 Research Posters
