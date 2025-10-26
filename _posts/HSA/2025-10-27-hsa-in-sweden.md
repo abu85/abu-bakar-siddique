@@ -4,7 +4,7 @@ title: "[HSA] সুইডেনে উচ্চশিক্ষা"
 categories: HSA
 tags: [Sweden program course study masters]
 header:
-  teaser: ./images/thumnail/2025_10_25_poster_comp.jpg
+  teaser: 
 ---
 
 ## সুইডেনে উচ্চশিক্ষা: ইউরোপের সিলিকন ভ্যালিতে ক্যারিয়ার গড়ার সুযোগ
