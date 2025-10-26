@@ -80,7 +80,7 @@ classes: wide
     <div class="intro">
         <h3>Bioinformatic project accomplishments</h3> 
         <ul>
-            <li> Nine ampliseq data analysis:            
+            <li> Nine ampliseq data analysis:</li>            
                 <ol>
                     <li>ITS: Leaf inhabiting fungal endophytes of European Aspen tree</li>
                     <li>ITS: Leaf inhabiting fungal endophytes of European Beech tree</li>
