@@ -133,6 +133,14 @@ classes: wide
             <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>            
         </ul>
         <br>
+        <h3>Research projects</h3>
+        <ul>
+            <li>TanAsp (mycobiome and metabolites in European Aspen)
+            <li>Sweden Biodiversity in Time and Space (SweBITS) through meta-genomics
+            <li>Mycoviruses
+            <li>Leaf-inhabiting endophytes of European beech trees
+            <li>Plant-fungi-insect interaction in Swedish Aspen</li>
+        </ul>            
         <h3>Research Experience</h3>
         <ul>
             <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">SLUBI</a> (06/2024 – Continue)
