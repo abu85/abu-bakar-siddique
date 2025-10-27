@@ -111,7 +111,6 @@ classes: wide
                 <li>QTLSeq</li>
                 <li>Meta transcriptome Bioreactor</li>
             </ol>        
-        </ul>
         <br>
         <h3>Research Interests</h3> 
         <ul>
@@ -140,7 +139,6 @@ classes: wide
             <li>Mycoviruses
             <li>Leaf-inhabiting endophytes of European beech trees
             <li>Plant-fungi-insect interaction in Swedish Aspen</li>
-        </ul>
         <br>            
         <h3>Research Experience</h3>
         <ul>
@@ -166,5 +164,3 @@ classes: wide
             Research topics: <u>fungal endophytes</u>, <u>molecular ecology</u></p></li><br>
             <p><i>Note: Family leave for approximately nine months after PhD studies (2017–2018).</i></p>
         </ul>
-    </div>    
-</body>

@@ -4,6 +4,8 @@ main:
     url: /profile/
   - title: "Publications"
     url: /publications/
+  - title: "Teaching"
+    url: /teaching/
   - title: "CV"
     url: /assets/pdf/CV_Abu_Bakar_Siddique_2025_08_21.pdf
     external: true
