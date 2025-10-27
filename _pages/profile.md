@@ -86,7 +86,7 @@ classes: wide
                     <li>ITS: Leaf inhabiting fungal endophytes of European Beech tree</li>
                     <li>ITS: Leaf inhabiting fungal endophytes of Rye seeds and soils</li>
                     <li>18S: Sequencing of Arbuscular Mycorrhizal (AMF) Communities in Environmental Samples</li>
-                    <li>COI: Wildflowers inhabiting terrestrial arthropods</li>
+                    <li>COI: Wildflower inhabiting terrestrial arthropods</li>
                     <li>ITS: Metagenomics of seeds (empty vs filled)</li>
                     <li>16S: Leaf inhabiting fungal endophytes of Rye seeds and soils</li>
                     <li>16S: Water samples of different rivers of Bangladesh</li>
@@ -112,13 +112,14 @@ classes: wide
                 <li>Meta transcriptome Bioreactor</li>
             </ol>        
         <br>
-    <div class="res">
+        </ul>
+    <div class="intro">
         <h3>Research Interests</h3> 
         <ul>
             <li>Environmental Metagenomics and Molecular Ecology
             <p>Environmental monitoring (Disease and pest by Airborne eDNA), bryophyte phenology, metabarcoding, biodiversity, disease resistance</p></li>
-            <li>Computational Multi-Omics
-            <p>Genome, transcriptome; AI-driven analysis (ML & DL)</p></li>
+            <li>Transcriptomics
+            <p>Gene expression, transcriptome, DGE, GO KO analysis, Functional analysis; Metatranscriptomics, AI-driven analysis (ML & DL)</p></li>
         </ul>
         <br>
     <div class="edu">
@@ -131,9 +132,8 @@ classes: wide
             <li>M.S., Plant Pathology (03/2008 – 07/2010)
             <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>
             <li>B.Sc.Ag(Hons), Agriculral Science (01/2004 – 03/2008)
-            <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>            
+            <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li><br>
         </ul>
-        <br>
     <div class="Res proj">
         <h3>Research projects</h3>
         <ul>
@@ -142,8 +142,8 @@ classes: wide
             <li>Mycoviruses
             <li>Leaf-inhabiting endophytes of European beech trees
             <li>Plant-fungi-insect interaction in Swedish Aspen</li>
-        <br>            
-    <div class="exper">
+        <br>          
+        </ul>  
         <h3>Research Experience</h3>
         <ul>
             <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">SLUBI</a> (06/2024 – Continue)
@@ -165,8 +165,8 @@ classes: wide
             Research topics: <u>Leaf inhabiting endophytic fungi</u>, <u>ITS metabarcoding</u></p></li>
             <li>Research Assistant (Forskningsassistent), 2012-07-01 to 2012-09-30
             <p>Department of Plant Physiology, UPSC, Umeå University, Sweden<br>
-            Research topics: <u>fungal endophytes</u>, <u>molecular ecology</u></p></li>
-        </ul>
+            Research topics: <u>fungal endophytes</u>, <u>molecular ecology</u></p></li><br>
             <p><i>Note: Family leave for approximately nine months after PhD studies (2017–2018).</i></p>
             <br>
+        </ul>
 </body>
