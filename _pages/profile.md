@@ -131,7 +131,8 @@ classes: wide
             <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>
             <li>B.Sc.Ag(Hons), Agriculral Science (01/2004 – 03/2008)
             <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li><br>
-        </ul></br>
+        </ul>
+        <br>
         <h3>Research projects</h3>
         <ul>
             <li>TanAsp (mycobiome and metabolites in European Aspen)
@@ -139,7 +140,8 @@ classes: wide
             <li>Mycoviruses
             <li>Leaf-inhabiting endophytes of European beech trees
             <li>Plant-fungi-insect interaction in Swedish Aspen</li>
-        </ul><br>            
+        </ul>
+        <br>            
         <h3>Research Experience</h3>
         <ul>
             <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">SLUBI</a> (06/2024 – Continue)
