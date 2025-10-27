@@ -91,7 +91,7 @@ classes: wide
                     <li>16S: Leaf inhabiting fungal endophytes of Rye seeds and soils</li>
                     <li>16S: Water samples of different rivers of Bangladesh</li>
                     <li>16S: Human Gut microbiome</li>
-                </ol></li>
+                </ol>
             <li> Three metagenomics data analysis:
             <ol>
                 <li>Airfilter data</li>
@@ -110,8 +110,7 @@ classes: wide
                 <li>Red clover2</li>
                 <li>QTLSeq</li>
                 <li>Meta transcriptome Bioreactor</li>
-            </ol>
-        </ul>
+            </ol>        
         <br>
         <h3>Research Interests</h3> 
         <ul>
@@ -139,8 +138,7 @@ classes: wide
             <li>Sweden Biodiversity in Time and Space (SweBITS) through meta-genomics
             <li>Mycoviruses
             <li>Leaf-inhabiting endophytes of European beech trees
-            <li>Plant-fungi-insect interaction in Swedish Aspen</li>
-        </ul>            
+            <li>Plant-fungi-insect interaction in Swedish Aspen</li>            
         <h3>Research Experience</h3>
         <ul>
             <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">SLUBI</a> (06/2024 – Continue)
