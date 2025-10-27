@@ -130,7 +130,7 @@ classes: wide
             <li>M.S., Plant Pathology (03/2008 – 07/2010)
             <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>
             <li>B.Sc.Ag(Hons), Agriculral Science (01/2004 – 03/2008)
-            <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li><br>
+            <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>
         </ul>
         <br>
         <h3>Research projects</h3>
