@@ -111,9 +111,8 @@ classes: wide
                 <li>QTLSeq</li>
                 <li>Meta transcriptome Bioreactor</li>
             </ol>        
-        <br>
         </ul>
-    <div class="intro">
+        <br>
         <h3>Research Interests</h3> 
         <ul>
             <li>Environmental Metagenomics and Molecular Ecology
@@ -122,7 +121,6 @@ classes: wide
             <p>Gene expression, transcriptome, DGE, GO KO analysis, Functional analysis; Metatranscriptomics, AI-driven analysis (ML & DL)</p></li>
         </ul>
         <br>
-    <div class="edu">
         <h3>Education</h3>
         <ul>
             <li>Ph.D., Molecular Ecology (12/2013 – 09/2017)
@@ -133,8 +131,7 @@ classes: wide
             <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>
             <li>B.Sc.Ag(Hons), Agriculral Science (01/2004 – 03/2008)
             <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li><br>
-        </ul>
-    <div class="Res proj">
+        </ul></br>
         <h3>Research projects</h3>
         <ul>
             <li>TanAsp (mycobiome and metabolites in European Aspen)
@@ -142,8 +139,7 @@ classes: wide
             <li>Mycoviruses
             <li>Leaf-inhabiting endophytes of European beech trees
             <li>Plant-fungi-insect interaction in Swedish Aspen</li>
-        <br>          
-        </ul>  
+        </ul><br>            
         <h3>Research Experience</h3>
         <ul>
             <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">SLUBI</a> (06/2024 – Continue)
@@ -167,6 +163,6 @@ classes: wide
             <p>Department of Plant Physiology, UPSC, Umeå University, Sweden<br>
             Research topics: <u>fungal endophytes</u>, <u>molecular ecology</u></p></li><br>
             <p><i>Note: Family leave for approximately nine months after PhD studies (2017–2018).</i></p>
-            <br>
         </ul>
+    </div>    
 </body>
