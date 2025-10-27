@@ -2,7 +2,7 @@
 layout: single
 title: "[HSA] সুইডেনে উচ্চশিক্ষা"
 categories: HSA
-tags: [Sweden program course study masters]
+tags: [Sweden, program, course, study, abroad, masters]
 header:
   teaser: https://studyinsweden.se/transformations/2020/05/study_in_sweden_foto_oskar_omne008.jpg-850x.jpg
 ---
