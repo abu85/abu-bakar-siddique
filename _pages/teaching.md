@@ -77,7 +77,13 @@ classes: wide
 </head>
 <body>
     <div class="intro">
-        <h3>Data handling and high-quality illustrations for publications (PhD course)</h3> 
+        <h3>- Analysis of High-Throughput Sequencing RNA-Seq Data (PhD course)</h3>
+        <h3>- Genome-wide predictions in breeding: genotype-phenotype associations and genomic selection (PhD course)</h3>
+        <h3>- Data handling and high-quality illustrations for publications (PhD course)</h3>
+        <h3>- Multi-omics analyses of the microbial community (PhD course)</h3>
+        <h3>- SLUBI SIDA training course—Reproducible bioinformatics, best practices, Nextflow and nf-core (researcher course)</h3>
+        <h3>- MedBioInfo —Swedish National Graduate School in Medical Bioinformatics (PhD course)</h3>
+        <h4>Details of the one: Data handling and high-quality illustrations for publications (PhD course)</h4> 
         <ul>
             <h4>Learning outcome</h4>
             <ul>
