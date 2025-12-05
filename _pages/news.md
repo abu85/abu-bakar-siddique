@@ -76,8 +76,9 @@ classes: wide
 <body>
 
 <div class="container">
-    <!-- Linkedin Gallery -->    
+    <!-- Linkedin & Facebook Gallery -->    
     <div style="display: flex; flex-direction: column; gap: 20px;">
+        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsaucc.org%2Fposts%2Fpfbid0ahmg7ofhDKZG2S1PtqNKGdm5pNNJmKQ65ftZKsKJA8J3jf81NnoZqsgpusv8RfHAl&show_text=true&width=500" width="500" height="792" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7386715129901469696" height="1177" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
         <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fa.b.s.biplob%2Fposts%2Fpfbid035v9CoBimjZkwaJaC6JMwEMUeGftdqn65qf5xCGY7PGhz72h8fpvme5bVKnLCXJitl&show_text=true&width=500" width="500" height="805" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7384599261256048640?collapsed=1" height="603" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
