@@ -77,26 +77,28 @@ classes: wide
 </head>
 <body>
     <div class="intro">
-        <h3>- Analysis of High-Throughput Sequencing RNA-Seq Data (PhD course)</h3>
-        <h3>- Genome-wide predictions in breeding: genotype-phenotype associations and genomic selection (PhD course)</h3>
-        <h3>- Data handling and high-quality illustrations for publications (PhD course)</h3>
-        <h3>- Multi-omics analyses of the microbial community (PhD course)</h3>
-        <h3>- SLUBI SIDA training course—Reproducible bioinformatics, best practices, Nextflow and nf-core (researcher course)</h3>
-        <h3>- MedBioInfo —Swedish National Graduate School in Medical Bioinformatics (PhD course)</h3>
-        <h4>Details of the one: Data handling and high-quality illustrations for publications (PhD course)</h4> 
+     <h2>Teaching</h3> 
+        <h3>1. Analysis of High-Throughput Sequencing RNA-Seq Data (PhD course)</h3>
+        <h3>2. Genome-wide predictions in breeding: genotype-phenotype associations and genomic selection (PhD course)</h3>
+        <h3>3. Data handling and high-quality illustrations for publications (PhD course)</h3>
+        <h3>4. Multi-omics analyses of the microbial community (PhD course)</h3>
+        <h3>5. SLUBI SIDA training course—Reproducible bioinformatics, best practices, Nextflow and nf-core (researcher course)</h3>
+        <h3>6 MedBioInfo —Swedish National Graduate School in Medical Bioinformatics (PhD course)</h3>
+        <h2>Details of the one course: 
+        Data handling and high-quality illustrations for publications (PhD course)</h2> 
         <ul>
-            <h4>Learning outcome</h4>
-            <ul>
-            <li> Assess their data, choose and create suitable graphs with R.
-            <li> Create multi-panel figures for publications and presentation with R.
-            <li>Merge and update datasets in R without the need to modify the source data files.
-            <li>Plan for code and raw data submission by creating Digital Object Identifiers (DOIs) to be used for publications.<br>
-            <h4>Content</h4>
-            <ul>
-            <li>A practical overview of handling data in R, including merging datasets directly from the original data files within R. During the course this knowledge will be used to automatically update illustrations and maps. Learning a proper Data handling strategy is important to minimize the usual multiple versions of the dataset(s) that are created by many students. At the same time, it is important to preserve the original data to prevent irreversible errors due to manual handling. This is of particular interest in many projects where data is added and updated continuously.
-                <li>A practical and theoretical background to choose suitable figures to convey graphically the nature of a specific dataset and what to avoid.
-                <li>An introduction to open science, with an emphasis on reproducible data and scripts, and sharing these through DOIs.
-                <p>The course will use free software within the R environment, including packages such as tidyverse, dplyR, tidyR, and ggplot2. For DOI and data sharing, GitHub will be used. The #tidytuesday project on GitHub will be the primary source of example datasets. Theoretical lectures will be mixed with presentations and hands-on workshops. Students will work in groups to solve given problems that tie back to the lectures using #tidytuesday data. A final individual project will be given where the students will use their own data (when available) or use the #tidytuesday datasets to implement the learning objectives and present their project. Teaching will be conducted as a one week on-campus class followed by an independent project that will be presented via zoom.</p><br>
-            <h4>Formats and requirements for examination</h4>
-            <ul>
-                <li>The course objectives will be examined through independent project presentations and individual written reports on the use of different techniques included in the course. 
+        <h4>Learning outcome</h4>
+        <ul>
+        <li> Assess their data, choose and create suitable graphs with R.
+        <li> Create multi-panel figures for publications and presentation with R.
+        <li>Merge and update datasets in R without the need to modify the source data files.
+        <li>Plan for code and raw data submission by creating Digital Object Identifiers (DOIs) to be used for publications.<br>
+        <h4>Content</h4>
+        <ul>
+        <li>A practical overview of handling data in R, including merging datasets directly from the original data files within R. During the course this knowledge will be used to automatically update illustrations and maps. Learning a proper Data handling strategy is important to minimize the usual multiple versions of the dataset(s) that are created by many students. At the same time, it is important to preserve the original data to prevent irreversible errors due to manual handling. This is of particular interest in many projects where data is added and updated continuously.
+        <li>A practical and theoretical background to choose suitable figures to convey graphically the nature of a specific dataset and what to avoid.
+        <li>An introduction to open science, with an emphasis on reproducible data and scripts, and sharing these through DOIs.
+        <p>The course will use free software within the R environment, including packages such as tidyverse, dplyR, tidyR, and ggplot2. For DOI and data sharing, GitHub will be used. The #tidytuesday project on GitHub will be the primary source of example datasets. Theoretical lectures will be mixed with presentations and hands-on workshops. Students will work in groups to solve given problems that tie back to the lectures using #tidytuesday data. A final individual project will be given where the students will use their own data (when available) or use the #tidytuesday datasets to implement the learning objectives and present their project. Teaching will be conducted as a one week on-campus class followed by an independent project that will be presented via zoom.</p><br>
+        <h3>Formats and requirements for examination</h3>
+        <ul>
+        <li> The course objectives will be examined through independent project presentations and individual written reports on the use of different techniques included in the course.</li> 
