@@ -4,7 +4,7 @@ title: "[Bioinformatics] Mounting an External USB Drive in WSL/Linux/Unix"
 categories: Bioinformatics
 tags: [usb, mounting, bioinformatics, WSL, linux, windows, data transfer, server, scp, troubleshooting, guide, tutorial, ]
 header:
-  teaser: /images/thumnail/usb.jpeg
+  teaser: /images/thumnail/usb.jpg
 ---
 
 # Mounting an External USB Drive in WSL and Downloading Data from a Server: My Journey
