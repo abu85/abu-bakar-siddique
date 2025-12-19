@@ -66,7 +66,7 @@ classes: wide
             left: 0;
             width: 100%;
             height: 100%;
-        }
+        }D
         @media (max-width: 600px) {
             .youtube-container {
                 width: 100%; /* Full width on small screens */
@@ -77,7 +77,7 @@ classes: wide
 </head>
 <body>
     <div class="intro">
-     <h2>Teaching</h3> 
+     <h2>Teaching</h2> 
         <h3>1. Analysis of High-Throughput Sequencing RNA-Seq Data (PhD course)</h3>
         <h3>2. Genome-wide predictions in breeding: genotype-phenotype associations and genomic selection (PhD course)</h3>
         <h3>3. Data handling and high-quality illustrations for publications (PhD course)</h3>
