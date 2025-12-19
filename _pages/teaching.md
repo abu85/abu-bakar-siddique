@@ -75,17 +75,18 @@ classes: wide
         }
     </style>
 </head>
+<h2>Teaching</h2> 
+     
 <body>
     <div class="intro">
-     <h2>Teaching</h2> 
         <h3>1. Analysis of High-Throughput Sequencing RNA-Seq Data (PhD course)</h3>
         <h3>2. Genome-wide predictions in breeding: genotype-phenotype associations and genomic selection (PhD course)</h3>
         <h3>3. Data handling and high-quality illustrations for publications (PhD course)</h3>
         <h3>4. Multi-omics analyses of the microbial community (PhD course)</h3>
         <h3>5. SLUBI SIDA training course—Reproducible bioinformatics, best practices, Nextflow and nf-core (researcher course)</h3>
         <h3>6 MedBioInfo —Swedish National Graduate School in Medical Bioinformatics (PhD course)</h3>
-        <h2>Details of the one course: 
-        Data handling and high-quality illustrations for publications (PhD course)</h2> 
+    <h2>Details of the one course</h2> 
+    <h3>3. Data handling and high-quality illustrations for publications (PhD course):</h3> 
         <ul>
         <h4>Learning outcome</h4>
         <ul>
