@@ -2,7 +2,7 @@
 layout: single
 title: "[paper] বাতাসে ভেসে থাকা DNA – প্রকৃতির গোপন ইতিহাসের সন্ধান"
 categories: paper
-tags: [airfilter, eDNA, NGS , sequencing, shotgun, ML, biodiversity , ecosystem, monitoring]
+tags: [airfilter, eDNA, NGS , sequencing, shotgun, ML, biodiversity , bioinformatics, ecosystem, monitoring]
 header:
   teaser: https://ars.els-cdn.com/content/image/1-s2.0-S0169534722002865-gr1.jpg?as=webp
 ---
@@ -13,13 +13,15 @@ header:
 ## আমরা কী করেছি?
 আমরা এমন এয়ার ফিল্টার বা ছাকনি বিশ্লেষণ করেছি যা সুইডেনের উত্তারাঞ্চলের ধুলো ও জৈবিক কণিকা সংগ্রহ করেছে – কয়েক বছর নয়, বরং তিন দশকেরও বেশি সময় ধরে! এই ফিল্টারগুলো মূলত রেডিওঅ্যাকটিভ পদার্থ পর্যবেক্ষণের জন্য ব্যবহৃত হয়েছিল, কিন্তু জীববৈচিত্র্য গবেষণার জন্য তা হয়ে উঠেছে এক অমূল্য ভাণ্ডার। DNA সিকোয়েন্সিংয়ের মাধ্যমে আমরা ২,৭০০ প্রজাতির উপস্থিতি সপ্তাহে সপ্তাহে অনুসরণ করেছি, ১৯৬০-এর দশক থেকে ২০০০-এর শুরুর দিকে পর্যন্ত।
 
+![ছবিঃ Sullivan et al.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVtGRnRGqeEsbDMG5DkpTO8gYSwnPplMkOkA&s)
+
 ## DNA কী প্রকাশ করেছে?
 
 জীববৈচিত্র্য উল্লেখযোগ্যভাবে কমেছে এই সময়ে। উদাহরণস্বরূপ, *বার্চ* গাছ, *লাইকেন* ও ছত্রাকের সংখ্যা কমেছে।
 এই হ্রাস শুধুমাত্র জলবায়ু পরিবর্তনের কারণে নয় – মানব কার্যকলাপ যেমন- বন ব্যবস্থাপনা বড় ভূমিকা রেখেছে।
 
 ## কেন এটা গুরুত্বপূর্ণ?
-![](https://www.mdpi.com/biosensors/biosensors-15-00494/article_deploy/html/images/biosensors-15-00494-g002-550.jpg)
+![Kristine Bohmann and Christina Lynggaard](https://www.mdpi.com/biosensors/biosensors-15-00494/article_deploy/html/images/biosensors-15-00494-g002-550.jpg)
 
 প্রচলিত জীববৈচিত্র্য পর্যবেক্ষণ সময়সাপেক্ষ ও সীমিত। আমাদের পদ্ধতি দেখিয়েছে যে বাতাসে থাকা DNA একটি *ইকোলজিক্যাল টাইম ক্যাপসুল* হিসেবে কাজ করতে পারে। এর মাধ্যমে:
 
