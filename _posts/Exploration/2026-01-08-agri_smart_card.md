@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "কৃষক কার্ড  বা Agri Smart Card- পর্যালোচনা"
+title: "কৃষক কার্ড  বা Agri Smart Card পর্যালোচনা"
 categories: Exploration
 tags: [agriculture, smart card, farmer, digital agriculture, Bangladesh]
 header:
   teaser: 
 ---
 
-### কৃষক কার্ড  বা Agri Smart Card- পর্যালোচনা
+### কৃষক কার্ড  বা Agri Smart Card পর্যালোচনা
 
 বিএনপির কৃষক কার্ড একটা পুরাতন প্রকল্প থেকে নেয়া। চাইলে জামাত জোট ঘোষণা দিতে পারে আমরা 'কৃষি স্মার্ট কার্ড' প্রথম ১০০ দিনের ভিতরে দিব। আওয়ামীলীগ বলবে 'কার্ড' জিনিষটা চেনা চেনা লাগছে! খোঁজ নিয়ে দেখলাম, 'কৃষক কার্ড' বা 'Agri Smart Card' নিয়ে কাজ শুরু হয়েছে ২০২২ সাল থেকে।
 
