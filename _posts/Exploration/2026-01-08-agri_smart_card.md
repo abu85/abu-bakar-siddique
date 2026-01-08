@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "[Exploration] একটি বৈজ্ঞানিক পোস্টার কখন ভাল লাগে?"
+title: "কৃষক কার্ড  বা Agri Smart Card- পর্যালোচনা"
 categories: Exploration
-tags: [poster presentation]
+tags: [agriculture, smart card, farmer, digital agriculture, Bangladesh]
 header:
-  teaser: ./images/thumnail/2025_10_25_poster_comp.jpg
+  teaser: 
 ---
 
 ### কৃষক কার্ড  বা Agri Smart Card- পর্যালোচনা
