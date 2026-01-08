@@ -9,7 +9,7 @@ header:
 
 ### কৃষক কার্ড  বা Agri Smart Card পর্যালোচনা
 
-বিএনপির কৃষক কার্ড একটা পুরাতন প্রকল্প থেকে নেয়া। চাইলে জামায়াত জোট ঘোষণা দিতে পারে আমরা 'কৃষি স্মার্ট কার্ড' প্রথম ১০০ দিনের ভিতরে দিব। আওয়ামীলীগ বলবে 'কার্ড' জিনিষটা চেনা চেনা লাগছে! খোঁজ নিয়ে দেখলাম, 'কৃষক কার্ড' বা 'Agri Smart Card' নিয়ে কাজ শুরু হয়েছে ২০২২ সাল থেকে।
+বিএনপির কৃষক কার্ড একটা পুরাতন প্রকল্প থেকে নেয়া। চাইলে জামায়াত জোট ঘোষণা দিতে পারে আমরা 'কৃষি স্মার্ট কার্ড' প্রথম ১০০ দিনের ভিতরে দিব। আওয়ামীলীগ বলবে 'কার্ড' জিনিষটা চেনা চেনা লাগছে! খোঁজ নিয়ে দেখলাম, 'কৃষক কার্ড' বা 'Agri Smart Card' নিয়ে কাজ শুরু হয়েছে ২০২২ সাল থেকে। আওয়ামিলীগের ২০২৪ সালের নির্বাচনী ইশতেহারে এই কার্ডের প্রসার ঘটানোর কথা বলা হয়েছে।
 
 **২০২২** সালে পাইলট প্রকল্প শুরু হয়, ১.০৯ কোটি কৃষকের জন্য। ডিজিটাল প্রোফাইল তৈরি করা শুরু হয়, ও স্মার্ট কার্ড বিতরণ ৯টি জেলায় শুরু হয়। লক্ষ্য ছিল কৃষি ইনপুট, ভর্তুকি ও ঋণ সুবিধা ডিজিটাল মাধ্যমে প্রদান।
 
@@ -65,11 +65,11 @@ header:
 9. কৃষি বীমা পাইলট প্রকল্প: GDIC, SBC, BRAC, UNDP LoGIC
 10. IDRA-এর প্যারামেট্রিক বীমা আইন খসড়া ও কর্মশালা তথ্য
 https://plandiv.gov.bd
-11. কৃষি স্মার্ট কার্ড প্রকল্প: পাইলট, সম্প্রসারণ ও Farmer Smart Card Policy 2025
-12. [IDRA – Insurance Development and Regulatory Authority](https://idra.org.bd)
-13. [Planning Division – Delta Plan](https://plandiv.gov.bd)
-14. [FAO – Food and Agriculture Organization](https://www.fao.org)
-15. [iFarmer – Digital Agriculture Platform](https://www.ifarmer.asia)    
+1.  কৃষি স্মার্ট কার্ড প্রকল্প: পাইলট, সম্প্রসারণ ও Farmer Smart Card Policy 2025
+2.  [IDRA – Insurance Development and Regulatory Authority](https://idra.org.bd)
+3.  [Planning Division – Delta Plan](https://plandiv.gov.bd)
+4.  [FAO – Food and Agriculture Organization](https://www.fao.org)
+5.  [iFarmer – Digital Agriculture Platform](https://www.ifarmer.asia)    
 *পরিমার্জন ও পরিবর্ধনেঃ AI*<br>
 
 
