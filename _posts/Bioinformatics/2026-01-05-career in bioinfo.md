@@ -1,9 +1,8 @@
 ---
 layout: single
-title: " Career Trajectory for a Bioinformatician
-"
+title: "Career Trajectory for a Bioinformatician"
 categories: Bioinformatics
-tags: [Career, Bioinformatics, Job Roles, Professional Development, Skills, Leadership, Advancement, Education, Training,   Bioinformatician, Career Path,  Career Growth,  Career Development, Job Opportunities]
+tags: ["Career", "Bioinformatics", "Job Roles", "Professional Development", "Skills", "Leadership", "Advancement", "Education", "Training",   "Bioinformatician", "Career Path",  "Career Growth", " Career Development", "Job Opportunities"]
 header:
   teaser: /images/thumnail/usb.jpg
 ---
