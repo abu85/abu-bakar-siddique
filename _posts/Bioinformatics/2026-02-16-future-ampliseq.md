@@ -4,7 +4,7 @@ title: "Future of Amplicon Sequencing analysis"
 categories: Bioinformatics
 tags: ["amplicon sequencing", "GPU acceleration", "bioinformatics", "microbiome", "nf-core", "ampliseq", "HPC computing", "DADA2", "RAPIDS" , "nextflow", "environmental DNA", "metagenomics", "computational biology"]
 header:
-  teaser: ![](https://cloudmorpho.com/wp-content/uploads/2024/10/cloud-gpu-768x432.jpg)
+  teaser: /images/2026-02-16-gpu/image.png
 ---
 
 # The Future of Amplicon Sequencing: A Hypothetical GPU‑Accelerated AmpliSeq Pipeline
