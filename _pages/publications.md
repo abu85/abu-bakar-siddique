@@ -99,7 +99,7 @@ classes: wide
 
 <div class="author">
     <!-- 2025 -->
-    Sullivan, AR; Karlsson, E; Svensson, D; Brindefalk, B; Villegas, JA; Mikko, A; Bellieny, D; Siddique, AB; ... et al. Airborne eDNA captures three decades of ecosystem biodiversity. Nat Commun (2025). https://doi.org/10.1038/s41467-025-67676-7
+    Sullivan, AR; Karlsson, E; Svensson, D; Brindefalk, B; Villegas, JA; Mikko, A; Bellieny, D; <strong>Siddique, AB</strong>; ... et al. <strong>Airborne eDNA captures three decades of ecosystem biodiversity</strong>.<br> <strong><em>Nat Commun</em></strong>, 2025. https://doi.org/10.1038/s41467-025-67676-7
     <p>
     <strong>Transcriptomic responses of beet to infection by beet mild yellowing virus.</strong><br>
     Puthanveed V&#8224;, Sajeevan RS, <strong>Siddique AB</strong>, Alexandersson E, Joshi P, Snell P, Lennefors BL, &amp; Kvarnheden A*.<br>
