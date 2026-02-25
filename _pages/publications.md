@@ -98,12 +98,16 @@ classes: wide
 </div>
 
 <div class="author">
-    <!-- 2025 -->
-    Sullivan, AR; Karlsson, E; Svensson, D; Brindefalk, B; Villegas, JA; Mikko, A; Bellieny, D; <strong>Siddique, AB</strong>; ... et al. <strong>Airborne eDNA captures three decades of ecosystem biodiversity</strong>.<br> <strong><em>Nat Commun</em></strong>, 2025. https://doi.org/10.1038/s41467-025-67676-7
-    <p>
+  <!-- 2025 -->
+   <strong>2025 <br></strong>
+  <p>
+    <strong>Airborne eDNA captures three decades of ecosystem biodiversity</strong>.<br> Sullivan, AR; Karlsson, E; Svensson, D; Brindefalk, B; Villegas, JA; Mikko, A; Bellieny, D; <strong>Siddique, AB</strong>; ... et al. <strong><em>Nat Commun</em></strong>, 2025. Research Article (Peer Reviewed)</em> (<a href="https://doi.org/10.1038/s41467-025-67676-7" target="_blank" style="color: inherit; ">Article</a>)
+    </p>
+    
+  <p>
     <strong>Transcriptomic responses of beet to infection by beet mild yellowing virus.</strong><br>
     Puthanveed V&#8224;, Sajeevan RS, <strong>Siddique AB</strong>, Alexandersson E, Joshi P, Snell P, Lennefors BL, &amp; Kvarnheden A*.<br>
-    <strong><em>BMC Plant Biol.</em></strong> 2025. <em>Research Article (Peer Reviewed)</em> (<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-025-07514-6" target="_blank" style="color: inherit; ">Article</a>, <a href="https://rdcu.be/eL44q" target="_blank" style="color: inherit; ">PDF</a>)
+    <strong><em>BMC Plant Biol,</em></strong> 2025. <em>Research Article (Peer Reviewed)</em> (<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-025-07514-6" target="_blank" style="color: inherit; ">Article</a>, <a href="https://rdcu.be/eL44q" target="_blank" style="color: inherit; ">PDF</a>)
     </p>
   
   <p>
@@ -115,6 +119,7 @@ classes: wide
   </p>
 
   <!-- 2024 -->
+  <strong>2024 <br></strong>
   <p>
     <strong>B Chromosomes in Wheat: Evolution, Functions and Breeding Potential.</strong><br>
     Islam MM, Deepo DM, <strong>Siddique AB</strong>, Nasif SO, Zonayet M, Hassan O.<br>
@@ -124,6 +129,7 @@ classes: wide
   </p>
 
   <!-- 2023 -->
+  <strong>2023 <br></strong>
   <p>
     <strong>Prospects of Endophytic Fungi as a Natural Resource for the Sustainability of Crop Production in the Modern Era of Changing Climate.</strong><br>
     Nasif SO, <strong>Siddique AB</strong>, Islam M, Hassan O, Deepo DM.<br>
@@ -141,6 +147,7 @@ classes: wide
   </p>
 
   <!-- 2022 -->
+  <strong>2022 <br></strong>
   <p>
     <strong>Cytogenetics and Consequences of Polyploidization on Different Biotic–Abiotic Stress Tolerance and the Potential Mechanisms Involved.</strong><br>
     Islam MM, <strong>Siddique AB</strong>, et al.<br>
@@ -158,6 +165,7 @@ classes: wide
   </p>
 
   <!-- 2021 -->
+  <strong>2021 <br></strong>
   <p>
     <strong>Mycobiomes of Young Beech Trees Are Distinguished by Organ Rather Than by Habitat, and Community Analyses Suggest Competitive Interactions Among Twig Fungi.</strong><br>
     <strong>Siddique AB</strong>, Biella P, Unterseher M, Albrectsen BR.<br>
@@ -167,6 +175,7 @@ classes: wide
   </p>
 
   <!-- 2020 -->
+  <strong>2020 <br></strong>
   <p>
     <strong>Viruses of Endophytic and Pathogenic Forest Fungi.</strong><br>
     <strong>Siddique AB</strong>.<br>
@@ -176,6 +185,7 @@ classes: wide
   </p>
 
   <!-- 2019 -->
+  <strong>2019 <br></strong>
   <p>
     <strong>A Mycoparasitic and Opportunistic Fungus Is Inhabited by a Mycovirus.</strong><br>
     Petrzik K, <strong>Siddique AB</strong>.<br>
@@ -185,6 +195,7 @@ classes: wide
   </p>
 
   <!-- 2018 -->
+  <strong>2018 <br></strong>
   <p>
     <strong>Mycobiomes of Sympatric <em>Amorphophallus albispathus</em> (Araceae) and <em>Camellia sinensis</em> (Theaceae) — A Case Study Reveals Clear Tissue Preferences and Differences in Diversity and Composition.</strong><br>
     Unterseher M, Karunarathna SC, Cruz GR, Dagamac NH, Dahl MB, <strong>Siddique AB</strong>.<br>
@@ -202,6 +213,7 @@ classes: wide
   </p>
 
   <!-- 2017 -->
+  <strong>2017 <br></strong>
   <p>
     <strong>What Do We Learn from Cultures in the Omics Age? High-Throughput Sequencing and Cultivation of Leaf-Inhabiting Endophytes from Beech (<em>Fagus sylvatica</em> L.) Revealed Complementary Community Composition but Similar Correlations with Local Habitat Conditions.</strong><br>
     <strong>Siddique AB</strong>, Khokon AM, Unterseher M.<br>
@@ -217,6 +229,7 @@ classes: wide
   </p>
 
   <!-- 2016 -->
+  <strong>2016 <br></strong>
   <p>
     <strong>Diversity and Composition of the Leaf Mycobiome of Beech (Fagus sylvatica) Are Affected by Local Habitat Conditions and Leaf Biochemistry.</strong><br>
     Unterseher M, <strong>Siddique AB</strong>, Brachmann A, Peršoh D.<br>
