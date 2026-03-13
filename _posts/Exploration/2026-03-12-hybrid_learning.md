@@ -8,7 +8,7 @@ header:
 ---
 ### নীল আলো খুঁজে পাওয়া মানুষটি – শূজি নাকামুরার গল্প
 <p align="center">
-  <img src="image.png" alt="jjj" hight="200" width="300">
+  <img src="image.png" alt="" width="150">
 </p>
 <p align="center">
   <em>ছবিঃ তিন ধরনের এলইডি</em>
