@@ -78,9 +78,9 @@ classes: wide
 
 <body>
     <div class="intro">
-        <h3>Bioinformatic project accomplishments</h3> 
+        <h3><strong>Bioinformatic projects accomplishments</strong></h3> 
         <ul>
-            <li> Nine ampliseq data analysis:</li>            
+            <li> <strong>Nine ampliseq projects</strong> Bioinformatics analysis: QC, DADA2/QIIME2, downstream diversity, composition, taxonomy, functional analysis in R</li>            
                 <ol>
                     <li>ITS: Leaf inhabiting fungal endophytes of European Aspen tree</li>
                     <li>ITS: Leaf inhabiting fungal endophytes of European Beech tree</li>
@@ -92,27 +92,29 @@ classes: wide
                     <li>16S: Water samples of different rivers of Bangladesh</li>
                     <li>16S: Human Gut microbiome</li>
                 </ol>
-            <li> Three metagenomics data analysis:
+            <li> <strong>Three metagenomics projects </strong>Bioinformatics analysis: QC, Taxonomy, Assembly, Binning, taxonomy, functional; and downstream data analysis in R
             <ol>
                 <li>Airfilter data</li>
                 <li>Leaf litter data (Alder)</li>
                 <li>Human gut microbiome</li>
             </ol>
-            <li> Ten RNASeq HTS data analysis and downstream analysis:
+            <li> <strong>Ten Bulk RNASeq projects</strong>: Bioinformatics and downstream DGE, GO, KO analysis in R
             <ol>
-                <li>Sugarbeet1</li>
-                <li>Sugarbeet2</li>
-                <li>Potato1</li>
-                <li>Potato2</li>
-                <li>Potato3</li>
-                <li>Brassica oleracea</li>
-                <li>Red clover1</li>
-                <li>Red clover2</li>
-                <li>QTLSeq</li>
-                <li>Meta transcriptome Bioreactor</li>
-            </ol>        
+                <li>Sugarbeet (PhD project 1)</li>
+                <li>Sugarbeet (PhD project 2)</li>
+                <li>Potato (PostDoc project 1)</li>
+                <li>Potato (PostDoc project 2)</li>
+                <li>Potato (Researcher project 1)</li>
+                <li>Brassica oleracea (PostDoc project 3)</li>
+                <li>Brassica oleracea (PostDoc project 4)</li>
+                <li>Red clover (Researcher project 2)</li>
+                <li>Red clover (Researcher project 3)</li>
+                <li>QTLSeq (PhD project 3)</li>
+                <li>Meta transcriptome Bioreactor (PhD project 4)</li>
+            </ol></ul>        
         <br>
-        <h3>Research Interests</h3> 
+    <div class="Research">
+        <h3><strong>Research Interests</strong></h3> 
         <ul>
             <li>Environmental Metagenomics and Molecular Ecology
             <p>Environmental monitoring (Disease and pest by Airborne eDNA), bryophyte phenology, metabarcoding, biodiversity, disease resistance</p></li>
@@ -120,7 +122,7 @@ classes: wide
             <p>Gene expression, transcriptome, DGE, GO KO analysis, Functional analysis; Metatranscriptomics, AI-driven analysis (ML & DL)</p></li>
         </ul>
         <br>
-        <h3>Education</h3>
+        <h3><strong>Education</strong></h3>
         <ul>
             <li>Ph.D., Molecular Ecology (12/2013 – 09/2017)
             <p>Greifswald University, Germany</p></li>
@@ -132,15 +134,16 @@ classes: wide
             <p>Sher-e-Bangla Agricultural University, Dhaka, Bangladesh</p></li>
         </ul>
         <br>
-        <h3>Research projects</h3>
+        <h3><strong>Research projects</strong></h3>
         <ul>
             <li>TanAsp (mycobiome and metabolites in European Aspen)
             <li>Sweden Biodiversity in Time and Space (SweBITS) through meta-genomics
             <li>Mycoviruses
             <li>Leaf-inhabiting endophytes of European beech trees
             <li>Plant-fungi-insect interaction in Swedish Aspen</li>
-        <br>            
-        <h3>Research Experience</h3>
+            <br>            
+        </ul>
+        <h3><strong>Research Experience</strong></h3>
         <ul>
             <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">SLUBI</a> (06/2024 – Continue)
             <p>Department of plant biology, SLU - Swedish University of Agricultural Sciences, Uppsala, Sweden<br>
@@ -164,3 +167,7 @@ classes: wide
             Research topics: <u>fungal endophytes</u>, <u>molecular ecology</u></p></li><br>
             <p><i>Note: Family leave for approximately nine months after PhD studies (2017–2018).</i></p>
         </ul>
+    </div>
+</body>
+    
+    
