@@ -111,8 +111,8 @@ classes: wide
                 <li>Red clover (Researcher project 3)</li>
                 <li>QTLSeq (PhD project 3)</li>
                 <li>Meta transcriptome Bioreactor (PhD project 4)</li>
-            </ol></ul>        
-        <br>
+            </ol>
+        </ul>
     <div class="Research">
         <h3><strong>Research Interests</strong></h3> 
         <ul>
@@ -141,8 +141,8 @@ classes: wide
             <li>Mycoviruses
             <li>Leaf-inhabiting endophytes of European beech trees
             <li>Plant-fungi-insect interaction in Swedish Aspen</li>
-            <br>            
-        </ul>
+            <br> 
+        </ul>          
         <h3><strong>Research Experience</strong></h3>
         <ul>
             <li>Bioinformatician (Bioinformatiker), <a href="https://www.slu.se/en/profilepages/s/abu-siddique/" target="_blank" style="color: inherit; ">SLUBI</a> (06/2024 – Continue)
@@ -166,8 +166,7 @@ classes: wide
             <p>Department of Plant Physiology, UPSC, Umeå University, Sweden<br>
             Research topics: <u>fungal endophytes</u>, <u>molecular ecology</u></p></li><br>
             <p><i>Note: Family leave for approximately nine months after PhD studies (2017–2018).</i></p>
-        </ul>
-    </div>
-</body>
+    </ul>
+
     
     
