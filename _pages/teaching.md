@@ -80,6 +80,12 @@ classes: wide
 <body>
     <div class="intro">
         <h3>1. Analysis of High-Throughput Sequencing RNA-Seq Data (PhD course)</h3>
+        My part: 
+        <li> Lecture: Interactive teaching through Biological QA analysis of bioinformatic results.
+        <li> Lab: Guiding the students to set up HPC evironment, nextflow and nf-core/rnaseq pipeline and to execute the pipeline.
+        <li> Guiding in downstream analysis in R.
+        <li><br>
+     
         <h3>2. Genome-wide predictions in breeding: genotype-phenotype associations and genomic selection (PhD course)</h3>
         <h3>3. Data handling and high-quality illustrations for publications (PhD course)</h3>
         <h3>4. Multi-omics analyses of the microbial community (PhD course)</h3>
