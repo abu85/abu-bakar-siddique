@@ -74,10 +74,11 @@ classes: wide
     </style>
 </head>
 <body>
-
+https://www.linkedin.com/posts/scilifelab-data-centre_artificialintelligence-aiagents-lifesciences-activity-7437794715808337920-ejDT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA0Nx6EBI3OYbgGUoYJqLq9hv7LBwpedIPs
 <div class="container">
     <!-- Linkedin & Facebook Gallery -->    
     <div style="display: flex; flex-direction: column; gap: 20px;">
+        <iframe src="https://www.linkedin.com/posts/scilifelab-data-centre_artificialintelligence-aiagents-lifesciences-activity-7437794715808337920-ejDT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA0Nx6EBI3OYbgGUoYJqLq9hv7LBwpedIPs" height="669" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
         <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheDhakaDiary%2Fposts%2Fpfbid02XhN7noaFthVpKfCFHkSG5R3c7v2rDA5WoghM37nZYgS5uE6TFKbtLjZayr5pVENml&show_text=true&width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsaucc.org%2Fposts%2Fpfbid0ahmg7ofhDKZG2S1PtqNKGdm5pNNJmKQ65ftZKsKJA8J3jf81NnoZqsgpusv8RfHAl&show_text=true&width=500" width="500" height="792" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7386715129901469696" height="1177" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
