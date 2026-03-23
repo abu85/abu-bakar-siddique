@@ -74,7 +74,7 @@ classes: wide
     </style>
 </head>
 <body>
-https://www.linkedin.com/posts/scilifelab-data-centre_artificialintelligence-aiagents-lifesciences-activity-7437794715808337920-ejDT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA0Nx6EBI3OYbgGUoYJqLq9hv7LBwpedIPs
+
 <div class="container">
     <!-- Linkedin & Facebook Gallery -->    
     <div style="display: flex; flex-direction: column; gap: 20px;">
