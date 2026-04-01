@@ -9,7 +9,7 @@ header:
 
 
 # Recap: One-Day Workshop on Agentic AI in Life Sciences
-
+![picture: SciLifeLab](/images/2026-04-01-agentic-ai/image.jfif)
 Last month, I attended the *“Developing AI Agents in Life Sciences”* workshop — a focused, hands-on event exploring how autonomous AI systems are transforming research in the life sciences.
 
 A warm thank you to **Mahbub Ul Alam**, **Dinh Long Huynh**, and **Johan Alfredéen** for leading the workshop and sharing their insights. Their expertise made the sessions both technically rich and highly engaging, and the enthusiasm from participants demonstrated the growing interest in agentic AI across the life science community.
@@ -37,6 +37,7 @@ The final discussions covered key considerations for real-world deployment, incl
 ---
 
 ## Stay Connected and Explore More
+- **Workshop slides and tutorials and different links: [github](https://github.com/ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-03-05)**
 
 - Join the SciLifeLab AI Network (Slack): https://lnkd.in/d_JwyShu  
 - Explore tools for AI/ML in life sciences: https://lnkd.in/dVUYDcKU  
@@ -45,6 +46,4 @@ The final discussions covered key considerations for real-world deployment, incl
 
 ---
 
-Reference: [scilifelab data centre](https://www.linkedin.com/posts/scilifelab-data-centre_artificialintelligence-aiagents-lifesciences-activity-7437794715808337920-ejDT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA0Nx6EBI3OYbgGUoYJqLq9hv7LBwpedIPs)
-
-#ArtificialIntelligence #AIAgents #LifeSciences #MachineLearning #SciLifeLab
+Post credit: [scilifelab data centre](https://www.linkedin.com/posts/scilifelab-data-centre_artificialintelligence-aiagents-lifesciences-activity-7437794715808337920-ejDT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA0Nx6EBI3OYbgGUoYJqLq9hv7LBwpedIPs)
