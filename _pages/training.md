@@ -101,16 +101,16 @@ classes: wide
 
 <div id="t1" class="toggle-content">
 
-<p><strong>Quick start:</strong>
 <ul>
+<p><strong>Quick start:</strong>
     <li><a href="https://abu85.github.io/Pixi-in-bioinformatics/modules/nextflow_rnaseq_analysis.html" target="_blank">
         pixi + nextflow RNA‑Seq workflow
     </a>
     <li><a href="https://abu85.github.io/Pixi-in-bioinformatics/modules/snakemake_rnaseq_analysis.html" target="_blank">
         pixi + snakemake RNA‑Seq workflow
     </a>
-</ul>
 </p>
+</ul>
 
 <p><strong>Overview:</strong> End‑to‑end RNA‑Seq workflow training covering raw FASTQ processing, QC, mapping, quantification, and differential expression.</p>
 
