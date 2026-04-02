@@ -364,7 +364,11 @@ All resources in this collection are:
     style="border:1px solid #ccc; border-radius:6px;">
 </iframe>
 
-<li>[Or click on here to see if avobe window does not show up](https://github.com/sib-swiss/training-collection/blob/main/README.md)
+<p style="margin-top:10px;">
+🔗 <a href="https://github.com/sib-swiss/training-collection/blob/main/README.md" target="_blank">
+Or click on here to see if avobe window does not show up
+</a>
+</p>
 
 <p style="margin-top:10px;">
 🔗 <a href="https://glittr.org" target="_blank">
