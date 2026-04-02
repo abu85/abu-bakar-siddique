@@ -374,9 +374,8 @@ Visit GLITTR for the full interactive platform
 </a>
 </p>
 
-</div>
-</div>
-
-
 [def]: ttps://abu85.github.io/Pixi-in-bioinformatics/modules/nextflow_rnaseq_analysis.htm
 [def2]: ttps://abu85.github.io/nfcore_metagenomics_training
+
+</div>
+</div>
