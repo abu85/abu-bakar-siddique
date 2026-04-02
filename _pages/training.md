@@ -88,7 +88,7 @@ classes: wide
     </script>
 </head>
 
-<h2>Bioinformatics training materials</h2>
+<h1>Bioinformatics training materials</h1>
 
 <body>
 <div class="intro">
@@ -319,4 +319,20 @@ classes: wide
 </div>
 </div>
 
+</div>
+
+<h2>Trainings materials compiled by Swiss Institute of Bioinformatics:</h3>
+<div class="course-block">
+    <div class="toggle-button" onclick="toggleSection('readme')">
+        <span>📘 View Training README</span>
+        <i class="fas fa-chevron-right"></i>
+    </div>
+    <div id="readme" class="toggle-content">
+        <iframe 
+            src="https://github.com/sib-swiss/training-collection/blob/8c1f47621edeabf0a3d377144ceabed3d7df9a3c/README.md?plain=1"
+            width="100%" 
+            height="900px"
+            style="border:1px solid #ccc; border-radius:6px;">
+        </iframe>
+    </div>
 </div>
