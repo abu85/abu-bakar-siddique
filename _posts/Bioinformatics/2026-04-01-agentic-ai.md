@@ -7,9 +7,8 @@ header:
   teaser: /images/2026-04-01-agentic-ai/image.jfif
 ---
 
+![](/images/2026-04-01-agentic-ai/image.jfif)
 
-# Recap: One-Day Workshop on Agentic AI in Life Sciences
-![](/images/2026-04-01-agentic-ai/image.jfif) <br>
 *Picture: SciLifeLab's agentic AI workshop*<br>
 Last month, I attended the *“Developing AI Agents in Life Sciences”* workshop — a focused, hands-on event exploring how autonomous AI systems are transforming research in the life sciences.
 
