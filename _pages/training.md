@@ -321,7 +321,7 @@ classes: wide
 
 </div>
 
-<h2>Trainings materials compiled by Swiss Institute of Bioinformatics:</h3>
+<h3>Trainings materials compiled by Swiss Institute of Bioinformatics:</h3>
 <div class="course-block">
     <div class="toggle-button" onclick="toggleSection('readme')">
         <span>📘 View Training README</span>
