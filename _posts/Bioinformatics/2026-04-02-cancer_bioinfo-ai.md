@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "পল কীভাবে রোজির জন্য mRNA ক্যান্সার ভ্যাকসিন তৈরি করল"
+title: "ব্যক্তিকৃত ক্যান্সার চিকিৎসা শুধু সম্ভবই নয় — এটি ভবিষ্যত: পল কীভাবে রোজির জন্য mRNA ক্যান্সার ভ্যাকসিন তৈরি করল"
 categories: Artificial-Intelligence
 tags: ["AI agents", "life sciences", "bioinformatics", "agentic AI", "LangChain", "ReAct", "MCP", "SciLifeLab", "AI workflows", "research automation"]
 header:
   teaser: /images/2026-04-01-agentic-ai/image.jfif
 ---
 
-# তিন বছরের লড়াই, কৃত্রিম বুদ্ধিমত্তা, এবং এক কুকুরকে বাঁচানোর গল্প
+### তিন বছরের লড়াই, কৃত্রিম বুদ্ধিমত্তা, এবং এক কুকুরকে বাঁচানোর গল্প
 ![](https://pbs.twimg.com/media/HESg1eRbwAAlTqP?format=jpg&name=900x900)
 ---
 
