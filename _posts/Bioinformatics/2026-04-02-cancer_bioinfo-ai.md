@@ -2,12 +2,12 @@
 layout: single
 title: "ব্যক্তিকৃত ক্যান্সার চিকিৎসা শুধু সম্ভবই নয় — এটিই ভবিষ্যত"
 categories: Artificial-Intelligence
-tags: ["AI agents", "life sciences", "bioinformatics", "agentic AI", "LangChain", "ReAct", "MCP", "SciLifeLab", "AI workflows", "research automation"]
+tags: ["AI", "life sciences", "bioinformatics", "AI workflows", "research", "automation", "vaccine", "protein", "DNA", "RNA",  "mRNA"]
 header:
   teaser: 
 ---
-## পল কীভাবে রোজির জন্য mRNA ক্যান্সার ভ্যাকসিন তৈরি করল
-### তিন বছরের লড়াই, কৃত্রিম বুদ্ধিমত্তা, এবং এক কুকুরকে বাঁচানোর গল্প
+# পল কীভাবে রোজির জন্য mRNA ক্যান্সার ভ্যাকসিন তৈরি করল
+*তিন বছরের লড়াই, কৃত্রিম বুদ্ধিমত্তা, এবং এক কুকুরকে বাঁচানোর গল্প*
 ![](https://pbs.twimg.com/media/HESg1eRbwAAlTqP?format=jpg&name=900x900)
 ---
 
