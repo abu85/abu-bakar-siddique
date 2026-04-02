@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "ব্যক্তিকৃত ক্যান্সার চিকিৎসা শুধু সম্ভবই নয় — এটি ভবিষ্যত: পল কীভাবে রোজির জন্য mRNA ক্যান্সার ভ্যাকসিন তৈরি করল"
+title: "ব্যক্তিকৃত ক্যান্সার চিকিৎসা শুধু সম্ভবই নয় — এটিই ভবিষ্যত"
 categories: Artificial-Intelligence
 tags: ["AI agents", "life sciences", "bioinformatics", "agentic AI", "LangChain", "ReAct", "MCP", "SciLifeLab", "AI workflows", "research automation"]
 header:
   teaser: 
 ---
-
+## পল কীভাবে রোজির জন্য mRNA ক্যান্সার ভ্যাকসিন তৈরি করল
 ### তিন বছরের লড়াই, কৃত্রিম বুদ্ধিমত্তা, এবং এক কুকুরকে বাঁচানোর গল্প
 ![](https://pbs.twimg.com/media/HESg1eRbwAAlTqP?format=jpg&name=900x900)
 ---
@@ -77,7 +77,7 @@ UNSW‑এর Ramaciotti Centre‑এ হয় পূর্ণ জিনোম স
 ---
 
 ## ফেব্রুয়ারি – মে ২০২৫ — ডেটা বিশ্লেষণের ম্যারাথন  
-AI টুলগুলোর সাহায্যে ৩০০GB ডেটা প্রসেস করে পাই:  
+AI টুলগুলোর সাহায্যে ৩০০ GB ডেটা প্রসেস করে পাই:  
 ✅ **c‑KIT gene mutation** — রোজির ক্যান্সারের মূল চালক।
 
 AlphaFold দিয়ে তৈরি করি প্রোটিনের 3D মডেল।
