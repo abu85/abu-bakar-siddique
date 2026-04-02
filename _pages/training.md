@@ -321,17 +321,16 @@ classes: wide
 
 <hr>
 
-<!-- 4. Microbial Multi‑Omics -->
+<!-- 7. Other complete resources list -->
 <div class="course-block">
-<div class="toggle-button" onclick="toggleSection('t4')">
+<div class="toggle-button" onclick="toggleSection('t7')">
     <span><i class="fas fa-bacteria"></i>Bioinformatics training materials compiled by SIB & Glittr</span>
     <i class="fas fa-chevron-right"></i>
 </div>
 
-<div id="t4" class="toggle-content">
-Bioinformatics training materials
-
-Do you like this collection? You're going to love [glittr.org](https://glittr.org)! The collection below is still maintained but updated by glittr.org. So, if you have anything to add or to ask, see you there!
+<div id="t7" class="toggle-content">
+<p><strong>Collections:</strong></p>
+<p>Do you like this collection? You're going to love [glittr.org](https://glittr.org)! The collection below is still maintained but updated by glittr.org. So, if you have anything to add or to ask, see you there!</p>
 
 [![](https://github.com/sib-swiss/training-collection/raw/main/assets/logo-with-domain-tagline.svg)](https://glittr.org)
 
@@ -343,7 +342,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - Free to use
 - Written in markdown or similar
 
-**NOTE:** This list of courses is selected *only* based on the above criteria. There are *no* checks on quality.
+**NOTE:** This list of courses is selected *only* based on the above criteria. There are *no* checks on quality.</p>
 
 ## Contents
 
