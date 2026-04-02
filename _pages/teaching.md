@@ -76,36 +76,105 @@ classes: wide
     </style>
 </head>
 <h2>Teaching</h2> 
-     
+
 <body>
-    <div class="intro">
-        <h3>1. Analysis of High-Throughput Sequencing RNA-Seq Data (PhD course)</h3>
-        My part: 
-        <li> Lecture: Interactive teaching through Biological QA analysis of bioinformatic results.
-        <li> Lab: Guiding the students to set up HPC evironment, nextflow and nf-core/rnaseq pipeline and to execute the pipeline.
-        <li> Guiding in downstream analysis in R.
-        <li><br>
-     
-        <h3>2. Genome-wide predictions in breeding: genotype-phenotype associations and genomic selection (PhD course)</h3>
-        <h3>3. Data handling and high-quality illustrations for publications (PhD course)</h3>
-        <h3>4. Multi-omics analyses of the microbial community (PhD course)</h3>
-        <h3>5. SLUBI SIDA training course—Reproducible bioinformatics, best practices, Nextflow and nf-core (researcher course)</h3>
-        <h3>6 MedBioInfo —Swedish National Graduate School in Medical Bioinformatics (PhD course)</h3>
-    <h2>Details of the one course</h2> 
-    <h3>3. Data handling and high-quality illustrations for publications (PhD course):</h3> 
-        <ul>
-        <h4>Learning outcome</h4>
-        <ul>
-        <li> Assess their data, choose and create suitable graphs with R.
-        <li> Create multi-panel figures for publications and presentation with R.
-        <li>Merge and update datasets in R without the need to modify the source data files.
-        <li>Plan for code and raw data submission by creating Digital Object Identifiers (DOIs) to be used for publications.<br>
-        <h4>Content</h4>
-        <ul>
-        <li>A practical overview of handling data in R, including merging datasets directly from the original data files within R. During the course this knowledge will be used to automatically update illustrations and maps. Learning a proper Data handling strategy is important to minimize the usual multiple versions of the dataset(s) that are created by many students. At the same time, it is important to preserve the original data to prevent irreversible errors due to manual handling. This is of particular interest in many projects where data is added and updated continuously.
-        <li>A practical and theoretical background to choose suitable figures to convey graphically the nature of a specific dataset and what to avoid.
-        <li>An introduction to open science, with an emphasis on reproducible data and scripts, and sharing these through DOIs.
-        <p>The course will use free software within the R environment, including packages such as tidyverse, dplyR, tidyR, and ggplot2. For DOI and data sharing, GitHub will be used. The #tidytuesday project on GitHub will be the primary source of example datasets. Theoretical lectures will be mixed with presentations and hands-on workshops. Students will work in groups to solve given problems that tie back to the lectures using #tidytuesday data. A final individual project will be given where the students will use their own data (when available) or use the #tidytuesday datasets to implement the learning objectives and present their project. Teaching will be conducted as a one week on-campus class followed by an independent project that will be presented via zoom.</p><br>
-        <h3>Formats and requirements for examination</h3>
-        <ul>
-        <li> The course objectives will be examined through independent project presentations and individual written reports on the use of different techniques included in the course.</li> 
+<div class="intro">
+
+### 1. Analysis of High-Throughput Sequencing RNA-Seq Data (PhD course)
+**Role:** Co-instructor  
+**Lecture:** Interactive teaching focusing on biological interpretation (Q&A format) of RNA‑Seq bioinformatic results.  
+**Lab:**  
+- HPC environment setup  
+- Running Nextflow-based **nf-core/rnaseq** pipelines  
+- Interpretation of QC metrics, alignment statistics, and expression matrices  
+- Downstream analysis in R: **DESeq2**, GO & KO enrichment, and biological result validation
+
+---
+
+### 2. Genome-wide Predictions in Breeding: Genotype–Phenotype Associations and Genomic Selection (PhD course)
+**Role:** Co-instructor / Bioinformatics mentor  
+**Lecture:** Introduction to Linux, R & RStudio  
+**Lab:**
+- Hands on linux & R introduction
+- Set up for the GWAS analysis: instalation of bioinfo tools and R packages or functions  
+
+**Topics covered:**  
+- Statistical genomics foundations  
+- SNP calling and variant quality assessment  
+- GWAS workflows and visualization  
+- Genomic prediction using mixed models and machine‑learning approaches  
+- Interpretation of genotype–phenotype associations  
+- Best practices for reproducible breeding informatics pipelines
+
+---
+
+### 3. Data Handling and High-Quality Illustrations for Publications (PhD course)
+**Role:** Instructor  
+**Topics covered:**  
+- Data management strategies in R  
+- Automated dataset merging, cleaning, and version control  
+- Creating publication‑quality multi-panel figures with **ggplot2**  
+- Reproducible analysis: project structure, DOIs, and open‑science workflows  
+- Hands‑on sessions with tidyverse and #tidytuesday datasets
+
+---
+
+### 4. Multi-omics Analyses of the Microbial Community (PhD course)
+**Role:** Co-instructor  
+**Topics covered:**  
+- Overview of multi-omics: metagenomics, metatranscriptomics, metaproteomics, metabolomics  
+- Quality control and assembly strategies for microbial communities  
+- Functional annotation, pathway reconstruction, and comparative metagenomics  
+- Integration of multi-omics layers using statistical and network-based approaches  
+- Reproducible workflows with Nextflow and nf-core pipelines
+
+---
+
+### 5. SLUBI SIDA Training Course — Reproducible Bioinformatics, Best Practices, Nextflow & nf-core (Researcher course)
+**Role:** Instructor  
+**Topics covered:**  
+- FAIR data principles and reproducible scientific workflows  
+- Introduction to workflow managers (Nextflow)  
+- Building and running nf-core pipelines  
+- Containerization (Docker, Singularity/Apptainer)  
+- Version control with GitHub  
+- Designing transparent and reproducible bioinformatics analyses in collaborative environments
+
+---
+
+### 6. MedBioInfo — Swedish National Graduate School in Medical Bioinformatics (PhD course)
+**Role:** Teaching assistant / Guest instructor  
+**Topics covered:**  
+- Medical bioinformatics fundamentals  
+- Genome-scale analysis pipelines  
+- Statistical modeling of biological data  
+- Reproducibility and data stewardship  
+- Hands‑on R and bash training targeted at medical datasets
+
+---
+
+## <h2>Details of One Course</h2>
+
+### **3. Data Handling and High‑Quality Illustrations for Publications (PhD course)**
+
+#### **Learning Outcomes**
+- Assess data structure and select appropriate graphical representations in R  
+- Create multi‑panel publication‑ready figures using **ggplot2**  
+- Merge and update datasets programmatically without altering raw data  
+- Prepare for reproducible code and data submission using **DOIs**
+
+#### **Content**
+- Practical training in R for dataset integration directly from source files, enabling automated updates to figures and maps  
+- Data management best practices to avoid unnecessary file duplication and preserve raw data integrity  
+- Guidance on selecting effective data visualizations and avoiding misleading graphical elements  
+- Introduction to open science principles focusing on reproducible data, scripts, and DOI‑based sharing
+
+The course uses free software within the R ecosystem, including **tidyverse**, **dplyr**, **tidyr**, and **ggplot2**. GitHub and DOI workflows are integrated throughout the course.  
+Teaching consists of lectures, guided sessions, hands‑on workshops, group exercises based on #tidytuesday datasets, and a final individual project (using students' own data or #tidytuesday datasets). The course runs as a one‑week on‑campus intensive followed by an independent project presented via Zoom.
+
+#### **Formats and Requirements for Examination**
+- Independent project presentation  
+- Individual written report demonstrating the techniques learned in the course  
+
+</div>
+</body>
