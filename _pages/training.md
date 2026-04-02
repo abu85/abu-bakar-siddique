@@ -101,17 +101,23 @@ classes: wide
 
 <div id="t1" class="toggle-content">
 
-<p><strong>Quick start:</strong> 
-    <a href="https://abu85.github.io/Pixi-in-bioinformatics/modules/nextflow_rnaseq_analysis.html" target="_blank">
+<p><strong>Quick start:</strong>
+<ul>
+    <li><a href="https://abu85.github.io/Pixi-in-bioinformatics/modules/nextflow_rnaseq_analysis.html" target="_blank">
         pixi + nextflow RNA‑Seq workflow
     </a>
+    <li><a href="https://abu85.github.io/Pixi-in-bioinformatics/modules/snakemake_rnaseq_analysis.html" target="_blank">
+        pixi + snakemake RNA‑Seq workflow
+    </a>
+</ul>
 </p>
 
 <p><strong>Overview:</strong> End‑to‑end RNA‑Seq workflow training covering raw FASTQ processing, QC, mapping, quantification, and differential expression.</p>
 
 <p><strong>Tools included:</strong></p>
 <ul>
-    <li>Nextflow + nf-core/rnaseq</li>
+    <li>Nextflow + nf-core/rnaseq Or</li> 
+    <li>Snakemake custom script</li>
     <li>FastQC, MultiQC</li>
     <li>STAR or HISAT2</li>
     <li>featureCounts</li>
@@ -142,7 +148,7 @@ classes: wide
 <div id="t2" class="toggle-content">
 
 <p><strong>Training material:</strong> 
-    <a href="https://abu85.github.io/SLUBI_GenomicPrediction/" target="_blank">
+    <a href="https://abu85.github.io/intro-to-R-genomic-selection/" target="_blank">
         Genomic Prediction Workshop
     </a>
 </p>
@@ -179,7 +185,7 @@ classes: wide
 <div id="t3" class="toggle-content">
 
 <p><strong>Training material:</strong>
-    <a href="https://abu85.github.io/DataViz_R/" target="_blank">
+    <a href="https://abu85.github.io/data-handling-visualization-in-R/" target="_blank">
         Data Visualization in R
     </a>
 </p>
@@ -333,7 +339,7 @@ classes: wide
 
 <div id="t7" class="toggle-content">
 
-<p><strong>Overview:</strong><br>
+<p><strong>Overview:</strong>
 This is a curated and actively maintained collection of bioinformatics training
 materials compiled by the Swiss Institute of Bioinformatics (SIB) and integrated
 into <a href="https://glittr.org" target="_blank">glittr.org</a>.
@@ -357,6 +363,8 @@ All resources in this collection are:
     height="800px"
     style="border:1px solid #ccc; border-radius:6px;">
 </iframe>
+
+<li>[Or click on here to see if avobe window does not show up](https://github.com/sib-swiss/training-collection/blob/main/README.md)
 
 <p style="margin-top:10px;">
 🔗 <a href="https://glittr.org" target="_blank">
