@@ -6,8 +6,8 @@ classes: wide
 ---
 
 <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <style>    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0 <style>
         h3 {
             margin-top: 0;
             margin-bottom: 0;
@@ -16,20 +16,22 @@ classes: wide
         .intro ul {
             margin-top: 4px;
             margin-bottom: 0;
-            list-style-type: square
+            list-style-type: square;
         }
         .intro p {
             margin-top: 0;
             margin-bottom: 0;
-            color:gray;
+            color: gray;
             font-size: 80%;
         }
+
+        /* ✅ TOGGLE STYLES */
         .toggle-content {
-            display: none; /* Hide content by default */
-            opacity: 0; /* Start hidden */
-            max-height: 0; /* Start hidden */
-            overflow: hidden; /* Prevents content overflow */
-            transition: max-height 0.5s ease, opacity 0.5s ease; /* Smooth transition */
+            display: none;
+            opacity: 0;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease, opacity 0.5s ease;
             margin-bottom: 20px;
             font-size: 80%;
         }
@@ -37,8 +39,9 @@ classes: wide
             cursor: pointer;
             display: flex;
             align-items: center;
-            user-select: none; /* Prevent text selection */
-            margin-bottom: 15px; /* Add bottom margin for gap */
+            user-select: none;
+            margin-bottom: 15px;
+            font-weight: bold;
         }
         .toggle-button .fas {
             margin-left: 10px;
@@ -50,15 +53,17 @@ classes: wide
         .toggle-content.show {
             display: block;
             opacity: 1;
-            max-height: 1000px; /* Large enough to display the content */
+            max-height: 1000px;
         }
+
+        /* YouTube styling (unchanged) */
         .youtube-container {
             position: relative;
-            width: 66.66%; /* Set width to 2/3 of the container */
-            max-width: 100%; /* Ensure it doesn't exceed the container's width */
-            padding-bottom: 37.5%; /* Aspect ratio 16:9 */
+            width: 66.66%;
+            max-width: 100%;
+            padding-bottom: 37.5%;
             height: 0;
-            margin-bottom: 40px; /* Add some space below the video */
+            margin-bottom: 40px;
         }
         .youtube-iframe {
             position: absolute;
@@ -66,16 +71,28 @@ classes: wide
             left: 0;
             width: 100%;
             height: 100%;
-        }D
+        }
         @media (max-width: 600px) {
             .youtube-container {
-                width: 100%; /* Full width on small screens */
-                max-width: none; /* Remove max width on small screens */
+                width: 100%;
+                max-width: none;
             }
         }
     </style>
+
+    <!-- ✅ REQUIRED Javascript for Toggle to work -->
+    <script>
+        function toggleSection(id) {
+            const content = document.getElementById(id);
+            const button = document.querySelector(`[onclick="toggleSection('${id}')"]`);
+            content.classList.toggle('show');
+            button.classList.toggle('active');
+        }
+    </script>
 </head>
-<h2>Bioinformatics training materials</h2> 
+
+<h2>Bioinformatics training materials</h2>
+
 <body>
 <div class="intro">
 <!-- 1. RNA-Seq Training -->
