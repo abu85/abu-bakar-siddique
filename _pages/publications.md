@@ -98,6 +98,12 @@ classes: wide
 </div>
 
 <div class="author">
+  <!-- 2026 -->
+   <strong>2026 <br></strong>
+  <p>
+    <strong>Medical facemask waste alters detritus decomposition and fungal communities in a freshwater pond</strong>.<br> Kong, Z.H.; Stangl, M.; Oester, R.; Rehnstam, S.; Futter, M.;<strong>Siddique, AB</strong>; Bundschuh, M.; Mckie, B. <strong><em>Scientific Reports</em></strong>, 2026. Research Article (Peer Reviewed) (<a href="https://doi.org/10.1038/s41598-026-45795-5" target="_blank" style="color: inherit; ">Article</a>)
+    </p>
+  
   <!-- 2025 -->
    <strong>2025 <br></strong>
   <p>
@@ -106,7 +112,7 @@ classes: wide
     
   <p>
     <strong>Transcriptomic responses of beet to infection by beet mild yellowing virus.</strong><br>
-    Puthanveed V&#8224;, Sajeevan RS, <strong>Siddique AB</strong>, Alexandersson E, Joshi P, Snell P, Lennefors BL, &amp; Kvarnheden A*.<br>
+    Puthanveed V&#8224;, Sajeevan RS, <strong>Siddique AB</strong>, Alexandersson E, Joshi P, Snell P, Lennefors BL, &amp; Kvarnheden A*.
     <strong><em>BMC Plant Biol,</em></strong> 2025. <em>Research Article (Peer Reviewed)</em> (<a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-025-07514-6" target="_blank" style="color: inherit; ">Article</a>, <a href="https://rdcu.be/eL44q" target="_blank" style="color: inherit; ">PDF</a>)
     </p>
   
@@ -115,7 +121,7 @@ classes: wide
     Bengtsson F, Cronberg N, Lozano Villegas JA, <strong>Siddique AB</strong>, Stenberg P, Ekroos J.<br>
     <em><strong>bioRxiv</strong></em>, 2025. <em>Research Article (Peer Reviewed)</em>
     (<a href="https://scholar.google.com/scholar?oi=bibs&cluster=12715626836952550665&btnI=1&hl=en" target="_blank" style="color: inherit;">Article</a>, 
-     <a href="https://scholar.google.com/scholar?oi=bibs&cluster=12715626836952550665&btnI=1&hl=en" target="_blank" style="color: inherit;">PDF</a>)
+    <a href="https://scholar.google.com/scholar?oi=bibs&cluster=12715626836952550665&btnI=1&hl=en" target="_blank" style="color: inherit;">PDF</a>)
   </p>
 
   <!-- 2024 -->
