@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Training"
+    url: /training/
   - title: "CV"
     url: /assets/pdf/CV_Abu_Bakar_Siddique_2025_08_21.pdf
     external: true
