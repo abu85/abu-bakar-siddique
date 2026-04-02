@@ -105,7 +105,7 @@ analytics:
 author:
   name             : # "Abu Bakar Siddique"
   avatar           : # "/images/index/Abu_2023.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an cancer & evolution biologist"
+  bio              : # "I am an  molecular ecologist"
   location         : "Sweden"
   email            :
   links:
@@ -127,9 +127,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abu85"
-    #- label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: "abu.siddique@slu.se"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "abu.siddique@slu.se"
 
 # Site Footer
 # footer:

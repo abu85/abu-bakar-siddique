@@ -137,9 +137,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abu85"
-    #- label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: "abu.siddique@slu.se"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "abu.siddique@slu.se"
 
 # Site Footer
 # footer:
