@@ -169,8 +169,7 @@ classes: wide
 - Guidance on selecting effective data visualizations and avoiding misleading graphical elements  
 - Introduction to open science principles focusing on reproducible data, scripts, and DOI‑based sharing
 
-The course uses free software within the R ecosystem, including **tidyverse**, **dplyr**, **tidyr**, and **ggplot2**. GitHub and DOI workflows are integrated throughout the course.  
-Teaching consists of lectures, guided sessions, hands‑on workshops, group exercises based on #tidytuesday datasets, and a final individual project (using students' own data or #tidytuesday datasets). The course runs as a one‑week on‑campus intensive followed by an independent project presented via Zoom.
+The course uses free software within the R ecosystem, including **tidyverse**, **dplyr**, **tidyr**, **ggplot2**, and **patchwork**. GitHub and DOI workflows are integrated throughout the course. Teaching consists of lectures, guided sessions, hands‑on workshops, group exercises based on #tidytuesday datasets, and a final individual project (using students' own data or #tidytuesday datasets). The course runs as a one‑week on‑campus intensive followed by an independent project presented via Zoom.
 
 #### **Formats and Requirements for Examination**
 - Independent project presentation  
