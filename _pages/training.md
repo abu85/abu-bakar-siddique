@@ -5,89 +5,88 @@ author_profile: true
 classes: wide
 ---
 
-<!-- Font Awesome Icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0 <style>
-    h3 {
-        margin-top: 0;
-        margin-bottom: 0;
-        padding-left: 5px;
-    }
-    .intro ul {
-        margin-top: 4px;
-        margin-bottom: 0;
-        list-style-type: square;
-    }
-    .intro p {
-        margin-top: 0;
-        margin-bottom: 0;
-        color: gray;
-        font-size: 80%;
-    }
-
-    /* ✅ TOGGLE STYLES */
-    .toggle-content {
-        display: none;
-        opacity: 0;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.5s ease, opacity 0.5s ease;
-        margin-bottom: 20px;
-        font-size: 80%;
-    }
-    .toggle-button {
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        user-select: none;
-        margin-bottom: 15px;
-        font-weight: bold;
-    }
-    .toggle-button .fas {
-        margin-left: 10px;
-        transition: transform 0.3s;
-    }
-    .toggle-button.active .fas {
-        transform: rotate(90deg);
-    }
-    .toggle-content.show {
-        display: block;
-        opacity: 1;
-        max-height: 1000px;
-    }
-
-    /* YouTube styling (unchanged) */
-    .youtube-container {
-        position: relative;
-        width: 66.66%;
-        max-width: 100%;
-        padding-bottom: 37.5%;
-        height: 0;
-        margin-bottom: 40px;
-    }
-    .youtube-iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-    @media (max-width: 600px) {
-        .youtube-container {
-            width: 100%;
-            max-width: none;
+<head>
+    <!-- Font Awesome Icons -->
+        <style>
+        h3 {
+            margin-top: 0;
+            margin-bottom: 0;
+            padding-left: 5px;
         }
-    }
-</style>
-
-<!-- ✅ REQUIRED Javascript for Toggle to work -->
-<script>
-    function toggleSection(id) {
-        const content = document.getElementById(id);
-        const button = document.querySelector(`[onclick="toggleSection('${id}')"]`);
-        content.classList.toggle('show');
-        button.classList.toggle('active');
-    }
-</script>
+        .intro ul {
+            margin-top: 4px;
+            margin-bottom: 0;
+            list-style-type: square;
+        }
+        .intro p {
+            margin-top: 0;
+            margin-bottom: 0;
+            color: gray;
+            font-size: 80%;
+        }
+        /* ✅ TOGGLE STYLES */
+        .toggle-content {
+            display: none;
+            opacity: 0;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease, opacity 0.5s ease;
+            margin-bottom: 20px;
+            font-size: 80%;
+        }
+        .toggle-button {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            user-select: none;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+        .toggle-button .fas {
+            margin-left: 10px;
+            transition: transform 0.3s;
+        }
+        .toggle-button.active .fas {
+            transform: rotate(90deg);
+        }
+        .toggle-content.show {
+            display: block;
+            opacity: 1;
+            max-height: 1000px;
+        }
+        /* YouTube styling (unchanged) */
+        .youtube-container {
+            position: relative;
+            width: 66.66%;
+            max-width: 100%;
+            padding-bottom: 37.5%;
+            height: 0;
+            margin-bottom: 40px;
+        }
+        .youtube-iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        @media (max-width: 600px) {
+            .youtube-container {
+                width: 100%;
+                max-width: none;
+            }
+        }
+    </style>
+    <!-- ✅ REQUIRED Javascript for Toggle to work -->
+    <script>
+        function toggleSection(id) {
+            const content = document.getElementById(id);
+            const button = document.querySelector(`[onclick="toggleSection('${id}')"]`);
+            content.classList.toggle('show');
+            button.classList.toggle('active');
+        }
+    </script>
+</head>
 
 <h2>Bioinformatics training materials</h2>
 
