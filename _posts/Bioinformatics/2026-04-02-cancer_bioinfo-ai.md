@@ -4,7 +4,7 @@ title: "ব্যক্তিকৃত ক্যান্সার চিকি�
 categories: Artificial-Intelligence
 tags: ["AI agents", "life sciences", "bioinformatics", "agentic AI", "LangChain", "ReAct", "MCP", "SciLifeLab", "AI workflows", "research automation"]
 header:
-  teaser: /images/2026-04-01-agentic-ai/image.jfif
+  teaser: 
 ---
 
 ### তিন বছরের লড়াই, কৃত্রিম বুদ্ধিমত্তা, এবং এক কুকুরকে বাঁচানোর গল্প
@@ -51,7 +51,7 @@ AI‑এর সাহায্য নিলাম, গবেষণা শুর�
 ---
 
 ![Image: Rosie Resting](https://pbs.twimg.com/media/HESjy5mbQAAG3oN?format=jpg&name=medium)  
-*Image 1: Rosie recovering at the clinic*
+*Image 1: Rosie at Rosies*
 
 ---
 
