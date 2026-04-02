@@ -329,7 +329,7 @@ classes: wide
     </div>
     <div id="readme" class="toggle-content">
         <iframe 
-            src="https://glittr.org?plain=1"
+            src="https://glittr.org/?plain=1"
             width="100%" 
             height="900px"
             style="border:1px solid #ccc; border-radius:6px;">
