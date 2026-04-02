@@ -101,16 +101,14 @@ classes: wide
 
 <div id="t1" class="toggle-content">
 
-<ul>
 <p><strong>Quick start:</strong>
-    <li><a href="https://abu85.github.io/Pixi-in-bioinformatics/modules/nextflow_rnaseq_analysis.html" target="_blank">
-        pixi + nextflow RNA‑Seq workflow
-    </a>
+    <li><a href="[def]" target="_blank">
+    pixi + nextflow RNA‑Seq workflow
+    </a></li>
     <li><a href="https://abu85.github.io/Pixi-in-bioinformatics/modules/snakemake_rnaseq_analysis.html" target="_blank">
         pixi + snakemake RNA‑Seq workflow
-    </a>
+    </a></li>
 </p>
-</ul>
 
 <p><strong>Overview:</strong> End‑to‑end RNA‑Seq workflow training covering raw FASTQ processing, QC, mapping, quantification, and differential expression.</p>
 
@@ -223,7 +221,7 @@ classes: wide
 <div id="t4" class="toggle-content">
 
 <p><strong>Training material:</strong> 
-    <a href="https://abu85.github.io/nfcore_metagenomics_training/" target="_blank">
+    <a href="[def2]" target="_blank">
         Metagenomics & Multi‑omics Training
     </a>
 </p>
@@ -378,3 +376,7 @@ Visit GLITTR for the full interactive platform
 
 </div>
 </div>
+
+
+[def]: ttps://abu85.github.io/Pixi-in-bioinformatics/modules/nextflow_rnaseq_analysis.htm
+[def2]: ttps://abu85.github.io/nfcore_metagenomics_training
