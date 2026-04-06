@@ -101,7 +101,7 @@ classes: wide
   <!-- 2026 -->
    <strong>2026 <br></strong>
   <p>
-    <strong>Medical facemask waste alters detritus decomposition and fungal communities in a freshwater pond</strong>.<br> Kong, Z.H.; Stangl, M.; Oester, R.; Rehnstam, S.; Futter, M.;<strong>Siddique, AB</strong>; Bundschuh, M.; Mckie, B. <strong><em>Scientific Reports</em></strong>, 2026. Research Article (Peer Reviewed) (<a href="https://doi.org/10.1038/s41598-026-45795-5" target="_blank" style="color: inherit; ">Article</a>)
+    <strong>Medical facemask waste alters detritus decomposition and fungal communities in a freshwater pond</strong>.<br> Kong, Z.H.; Stangl, M.; Oester, R.; Rehnstam, S.; Futter, M.; <strong>Siddique, AB</strong>; Bundschuh, M.; Mckie, B. <strong><em>Scientific Reports</em></strong>, 2026. Research Article (Peer Reviewed) (<a href="https://doi.org/10.1038/s41598-026-45795-5" target="_blank" style="color: inherit; ">Article</a>)
     </p>
   
   <!-- 2025 -->
