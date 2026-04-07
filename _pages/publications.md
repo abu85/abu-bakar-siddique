@@ -101,13 +101,16 @@ classes: wide
   <!-- 2026 -->
    <strong>2026 <br></strong>
   <p>
-    <strong>Medical facemask waste alters detritus decomposition and fungal communities in a freshwater pond</strong>.<br> Kong, Z.H.; Stangl, M.; Oester, R.; Rehnstam, S.; Futter, M.; <strong>Siddique, AB</strong>; Bundschuh, M.; Mckie, B. <strong><em>Scientific Reports</em></strong>, 2026. Research Article (Peer Reviewed) (<a href="https://doi.org/10.1038/s41598-026-45795-5" target="_blank" style="color: inherit; ">Article</a>)
+    <strong>Comparative Transcriptome Profiling of <em>Nicotiana benthamiana</em> Plants Infected with Potato Mop-Top Virus and Its Mutant Lacking a Gene for the 8K Protein Underlines the Role of Chloroplasts During Infection</strong>.<br> Roy S, Nemes K, Saripella GV, Vetukuri RR, <strong>Siddique AB</strong>, Savenkov EI. <strong><em>Mol Plant Microbe Interact</em></strong>, 2026. Research Article (Peer Reviewed) (<a href="https://doi.org/10.1094/MPMI-10-25-0146-R" target="_blank" style="color: inherit; ">Article</a>)
+    </p>
+  <p>
+    <strong>Medical facemask waste alters detritus decomposition and fungal communities in a freshwater pond</strong>.<br> Kong ZH, Stangl M, Oester R, Rehnstam S, Futter M, <strong>Siddique AB</strong>, Bundschuh M, Mckie B. <strong><em>Scientific Reports</em></strong>, 2026. Research Article (Peer Reviewed) (<a href="https://doi.org/10.1038/s41598-026-45795-5" target="_blank" style="color: inherit; ">Article</a>)
     </p>
   
   <!-- 2025 -->
    <strong>2025 <br></strong>
   <p>
-    <strong>Airborne eDNA captures three decades of ecosystem biodiversity</strong>.<br> Sullivan, AR; Karlsson, E; Svensson, D; Brindefalk, B; Villegas, JA; Mikko, A; Bellieny, D; <strong>Siddique, AB</strong>; ... et al. <strong><em>Nat Commun</em></strong>, 2025. Research Article (Peer Reviewed) (<a href="https://doi.org/10.1038/s41467-025-67676-7" target="_blank" style="color: inherit; ">Article</a>)
+    <strong>Airborne eDNA captures three decades of ecosystem biodiversity</strong>.<br> Sullivan AR, Karlsson E, Svensson D, Brindefalk B, Villegas JA, Mikko A, Bellieny D, <strong>Siddique AB</strong>, ... Stenberg P. <strong><em>Nat Commun</em></strong>, 2025. Research Article (Peer Reviewed) (<a href="https://doi.org/10.1038/s41467-025-67676-7" target="_blank" style="color: inherit; ">Article</a>)
     </p>
     
   <p>
