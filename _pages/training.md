@@ -377,5 +377,38 @@ Visit GLITTR for the full interactive platform
 [def]: ttps://abu85.github.io/Pixi-in-bioinformatics/modules/nextflow_rnaseq_analysis.htm
 [def2]: ttps://abu85.github.io/nfcore_metagenomics_training
 
+
+General Information
+What is Bioinformatics?
+
+Python
+Introduction to Python
+
+Unix / Command Line
+Introduction to Unix
+
+R
+[R Foundation](https://gbh-r-foundation.shinyapps.io/r_tutorial_v13)
+
+
+General Information
+Introduction to Genome Browsers
+Workflows / Galaxy
+Introduction to CWL
+
+General Information
+RNA-seq Experimental Design
+
+Containers
+Containerized Bioinformatics
+
+General Information
+Command-line software development
+
+Git / Version Control
+Version Control with Git
+
+
+
 </div>
 </div>
