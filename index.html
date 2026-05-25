@@ -47,6 +47,30 @@ classes: wide
                     /* 필요한 경우 추가 조정 */
                 }
             }
+            
+        .bio-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin: 2rem 0 0;
+        }
+
+        .bio-tag {
+            font-family: 'DM Mono', monospace;
+            font-size: 11px;
+            padding: 5px 10px;
+            border-radius: 4px;
+            border: 1px solid #006AA7;
+            color: #006AA7;
+            background: #e8f4fb;
+            letter-spacing: 0.04em;
+        }
+
+        .bio-tag:nth-child(odd) {
+            background: #fff8d6;
+            border-color: #c9a000;
+            color: #7a6000;
+        }
         </style>
     </head>
     
