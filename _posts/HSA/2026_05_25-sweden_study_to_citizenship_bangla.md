@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "সুইডেন: পড়াশোনা থেকে নাগরিকত্ব"
+title: "সুইডেন A টু Z: পড়াশোনা বা কাজ থেকে নাগরিকত্ব"
 categories: HSA
 tags: [sweden, citizenship, immigration, study, student visa, residence permit, work permit, PR, permanent residence, naturalization]
 header:
