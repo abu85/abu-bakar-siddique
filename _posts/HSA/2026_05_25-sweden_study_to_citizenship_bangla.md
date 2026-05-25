@@ -6,7 +6,9 @@ tags: [sweden, citizenship, immigration, study, student visa, residence permit, 
 header:
   teaser: https://studyinsweden.se/transformations/2020/05/study_in_sweden_foto_oskar_omne008.jpg-850x.jpg
 ---
-
+<!DOCTYPE html>
+<html lang="bn">
+<head>
 <!DOCTYPE html>
 <html lang="bn">
 <head>
@@ -1097,4 +1099,5 @@ header:
 
 </div>
 </body>
+</html>
 </html>
