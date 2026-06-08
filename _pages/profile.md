@@ -115,6 +115,12 @@ classes: wide
                     <li>Meta transcriptome Bioreactor (PhD project 4)</li>
                 </ol>
             </li>
+            <li><strong>Six denovo genome assembly</strong>: Earth biogenome project (EBP)
+                <ol>
+                    <li>Plant(4 accessions)</li>
+                    <li>Fungi (two isolates)</li>
+                </ol>
+            </li>
         </ul>
         <h3><strong>Research Interests</strong></h3>
         <ul>
