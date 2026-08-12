@@ -1,8 +1,13 @@
-# ডেটা দিয়ে গল্প বলা: চার্ট বানানো নয়, পয়েন্ট বোঝানোই আসল কাজ
+---
+layout: single
+title: "ডেটা দিয়ে গল্প বলা: চার্ট বানানো নয়, পয়েন্ট বোঝানোই আসল কাজ "
+categories: Bioinformatics
+tags: [data science, publication, figure, R, ggplot, Rstudio, plotting, graphs, programming, story telling with data ]
+header:
+  teaser: /images/thumnail/
+---
 
 > এই লেখাটি মূলত Claus O. Wilke-র *Fundamentals of Data Visualization* বইয়ের ২৯ নম্বর অধ্যায় ["Telling a story and making a point"](https://clauswilke.com/dataviz/telling-a-story.html)-এর আলোচনার ভিত্তিতে লেখা, সঙ্গে যুক্ত হয়েছে Cole Nussbaumer Knaflic-এর কাজ এবং সাম্প্রতিক গবেষণা থেকে পাওয়া কিছু সংযোজন।
-
----
 
 ## ভূমিকা: গল্প আপনি না বললে, দর্শক নিজেই বানিয়ে নেবেন
 
