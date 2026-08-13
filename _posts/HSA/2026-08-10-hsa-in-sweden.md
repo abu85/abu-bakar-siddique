@@ -234,7 +234,6 @@ header:
 - সাধারণ তথ্য: [studyinsweden.se](https://studyinsweden.se)
 
 লেখকঃ
-[ড. আবু বকর ছিদ্দিক (বিপ্লব)](https://abu85.github.io/abu-bakar-siddique/assets/html/Abu_Bakar_Siddique_CV_2026-08-13.html), পিএইচডি 
-জৈব তথ্য বিশ্লেষক,
-গবেষক ও শিক্ষক, <br> সুইডিশ কৃষি বিশ্ববিদ্যালয় (SLU), উপসালা, সুইডেন <br>
+[ড. আবু বকর ছিদ্দিক (বিপ্লব)](https://abu85.github.io/abu-bakar-siddique/assets/html/Abu_Bakar_Siddique_CV_2026-08-13.html)
+জৈব তথ্য বিশ্লেষক, গবেষক ও শিক্ষক, <br> সুইডিশ কৃষি বিশ্ববিদ্যালয় (SLU), উপসালা, সুইডেন <br>
 প্রথম প্রকাশ: ২৭-১০-২০২৫ | সর্বশেষ হালনাগাদ: ০৯-০৮-২০২৬, এআই পরিমারজিত।
