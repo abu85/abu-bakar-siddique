@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[HSA] সুইডেনে উচ্চশিক্ষা"
+title: "সুইডেনে উচ্চশিক্ষা"
 categories: HSA
 tags: [Sweden, program, course, study, abroad, masters]
 header:
