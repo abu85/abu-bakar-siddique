@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Abu Bakar Siddique — Bioinformatics Engineer &amp; Computational Biologist</title>
+<meta name="description" content="CV of Abu Bakar Siddique, Dr. rer. nat. — Bioinformatician at SLU Bioinformatics Infrastructure (SLUBI), Uppsala, Sweden.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#16191c;
+    --ink-soft:#3d474b;
+    --paper:#fcfcfa;
+    --spruce:#1e5b4a;
+    --spruce-deep:#123a2f;
+    --tint:#e8efeb;
+    --rail:#5f6b6e;
+    --hair:#dbe0dd;
+    --rail-w:132px;
+    --gap:26px;
+    --measure:760px;
+  }
+
+  *{box-sizing:border-box;}
+
+  html{-webkit-text-size-adjust:100%;}
+
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+    font-size:15px;
+    line-height:1.58;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  .sheet{
+    max-width:calc(var(--rail-w) + var(--gap) + var(--measure));
+    margin:0 auto;
+    padding:56px 34px 72px;
+  }
+
+  a{color:var(--spruce);text-decoration:none;border-bottom:1px solid rgba(30,91,74,.28);}
+  a:hover{border-bottom-color:var(--spruce);}
+  a:focus-visible{outline:2px solid var(--spruce);outline-offset:2px;border-radius:2px;}
+
+  /* ---------- masthead ---------- */
+
+  .masthead{border-bottom:2px solid var(--spruce);padding-bottom:20px;margin-bottom:30px;}
+
+  .name{
+    font-family:"IBM Plex Serif",Georgia,serif;
+    font-weight:600;
+    font-size:clamp(30px,5.4vw,43px);
+    line-height:1.04;
+    letter-spacing:-.022em;
+    margin:0 0 10px;
+  }
+  .name .postnom{
+    font-weight:400;
+    font-size:.44em;
+    letter-spacing:.02em;
+    color:var(--rail);
+    white-space:nowrap;
+  }
+
+  .role{
+    font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    font-size:12px;
+    font-weight:500;
+    letter-spacing:.13em;
+    text-transform:uppercase;
+    color:var(--spruce);
+    margin:0 0 16px;
+  }
+  .role .place{color:var(--rail);}
+
+  .contact{
+    font-size:13.5px;
+    color:var(--ink-soft);
+    margin:0;
+    line-height:1.9;
+  }
+  .contact .sep{color:var(--hair);padding:0 5px;}
+
+  /* ---------- ledger ---------- */
+
+  .ledger{
+    display:flex;
+    flex-wrap:wrap;
+    gap:0 26px;
+    margin:22px 0 0;
+    padding:13px 0 0;
+    border-top:1px solid var(--hair);
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:11.5px;
+    letter-spacing:.01em;
+    color:var(--rail);
+  }
+  .ledger b{color:var(--spruce-deep);font-weight:600;}
+
+  /* ---------- row scaffold: rail + content ---------- */
+
+  .block{
+    display:grid;
+    grid-template-columns:var(--rail-w) 1fr;
+    gap:0 var(--gap);
+    padding-top:26px;
+    margin-top:26px;
+    border-top:1px solid var(--hair);
+  }
+  .block:first-of-type{border-top:0;padding-top:0;margin-top:0;}
+
+  .block > .railhead{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:.11em;
+    text-transform:uppercase;
+    color:var(--spruce);
+    line-height:1.5;
+    padding-top:3px;
+  }
+  .railhead .sub{
+    display:block;
+    font-weight:400;
+    text-transform:none;
+    letter-spacing:.02em;
+    color:var(--rail);
+    margin-top:6px;
+    font-size:10.5px;
+    line-height:1.5;
+  }
+
+  .body > *:first-child{margin-top:0;}
+  .body > *:last-child{margin-bottom:0;}
+  .body p{margin:0 0 12px;}
+
+  /* ---------- entries (rail carries dates) ---------- */
+
+  .entry{
+    display:grid;
+    grid-template-columns:var(--rail-w) 1fr;
+    gap:0 var(--gap);
+    margin-top:22px;
+  }
+  .entry:first-of-type{margin-top:0;}
+
+  .when{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:11px;
+    color:var(--rail);
+    letter-spacing:.02em;
+    line-height:1.55;
+    padding-top:4px;
+  }
+  .when .now{
+    display:inline-block;
+    -webkit-print-color-adjust:exact;
+    print-color-adjust:exact;
+    background:var(--tint);
+    color:var(--spruce-deep);
+    padding:1px 6px;
+    border-radius:2px;
+    font-weight:500;
+    margin-top:5px;
+  }
+
+  .what h3{
+    font-family:"IBM Plex Serif",Georgia,serif;
+    font-size:16.5px;
+    font-weight:600;
+    letter-spacing:-.008em;
+    margin:0 0 2px;
+    line-height:1.3;
+  }
+  .org{
+    font-size:13px;
+    color:var(--ink-soft);
+    margin:0 0 9px;
+  }
+
+  ul{margin:0;padding-left:17px;}
+  li{margin-bottom:6px;}
+  li::marker{color:var(--spruce);}
+  ul.tight li{margin-bottom:3px;}
+
+  /* ---------- tables ---------- */
+
+  table{
+    width:100%;
+    border-collapse:collapse;
+    font-size:13.5px;
+    margin:0 0 4px;
+  }
+  th{
+    text-align:left;
+    vertical-align:top;
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:.07em;
+    text-transform:uppercase;
+    color:var(--rail);
+    border-bottom:1px solid var(--hair);
+    padding:0 12px 6px 0;
+  }
+  td{
+    vertical-align:top;
+    padding:8px 12px 8px 0;
+    border-bottom:1px solid var(--hair);
+    line-height:1.5;
+  }
+  td:last-child,th:last-child{padding-right:0;}
+  tr:last-child td{border-bottom:0;}
+
+  td.key{
+    font-weight:600;
+    color:var(--spruce-deep);
+    white-space:nowrap;
+  }
+  td.n{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:13px;
+    color:var(--spruce);
+    text-align:right;
+    white-space:nowrap;
+    padding-right:16px;
+  }
+
+  /* ---------- tool stack ---------- */
+
+  .stack{margin:0;}
+  .stack dt{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:.07em;
+    text-transform:uppercase;
+    color:var(--spruce);
+    margin:13px 0 3px;
+  }
+  .stack dt:first-child{margin-top:0;}
+  .stack dd{
+    margin:0;
+    font-size:13.5px;
+    color:var(--ink-soft);
+    line-height:1.62;
+  }
+
+  /* ---------- publications ---------- */
+
+  .pubyear{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:.09em;
+    color:var(--rail);
+    margin:20px 0 8px;
+    padding-bottom:5px;
+    border-bottom:1px solid var(--hair);
+  }
+  .pubyear:first-child{margin-top:0;}
+
+  ol.pubs{
+    margin:0;
+    padding-left:22px;
+    font-size:13.5px;
+    line-height:1.55;
+  }
+  ol.pubs li{margin-bottom:9px;color:var(--ink-soft);}
+  ol.pubs li::marker{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--rail);}
+  ol.pubs strong{color:var(--ink);font-weight:600;}
+  ol.pubs em{color:var(--ink);}
+  .doi{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:11px;
+    white-space:nowrap;
+  }
+  .lead{
+    border-left:2px solid var(--spruce);
+    padding-left:11px;
+    margin-left:-13px;
+  }
+
+  .note{
+    font-size:12.5px;
+    color:var(--rail);
+    font-style:italic;
+    margin:14px 0 0;
+  }
+
+  /* ---------- degrees ---------- */
+
+  .degree{margin-bottom:15px;}
+  .degree:last-child{margin-bottom:0;}
+  .degree h3{
+    font-family:"IBM Plex Serif",Georgia,serif;
+    font-size:15.5px;
+    font-weight:600;
+    margin:0 0 1px;
+  }
+  .degree .inst{font-size:13px;color:var(--ink-soft);margin:0 0 4px;}
+  .degree .thesis{font-size:12.5px;color:var(--rail);margin:0;line-height:1.5;}
+
+  /* ---------- footer ---------- */
+
+  .colophon{
+    margin-top:40px;
+    padding-top:14px;
+    border-top:2px solid var(--spruce);
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:10.5px;
+    letter-spacing:.05em;
+    color:var(--rail);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+
+  /* ---------- responsive ---------- */
+
+  @media (max-width:720px){
+    .sheet{padding:34px 20px 48px;}
+    .block,.entry{grid-template-columns:1fr;gap:0;}
+    .block > .railhead{
+      padding-top:0;
+      margin-bottom:14px;
+      padding-bottom:7px;
+      border-bottom:1px solid var(--hair);
+    }
+    .railhead .sub{display:none;}
+    .when{padding-top:0;margin-bottom:5px;}
+    .when .now{margin-top:0;margin-left:6px;}
+    .lead{margin-left:0;}
+    td.n{text-align:left;padding-right:12px;}
+    table{font-size:13px;}
+  }
+
+  @media (prefers-reduced-motion:reduce){
+    *{animation:none !important;transition:none !important;}
+  }
+
+  /* ---------- print ---------- */
+
+  @page{size:A4;margin:14mm 13mm;}
+
+  @media print{
+    :root{--rail-w:112px;--gap:18px;}
+    body{background:#fff;font-size:9.6pt;line-height:1.42;}
+    .sheet{max-width:none;padding:0;}
+    a{color:var(--ink);border-bottom:0;}
+    .name{font-size:25pt;}
+    .role{font-size:8pt;}
+    .contact{font-size:8.4pt;line-height:1.7;}
+    .ledger{font-size:7.6pt;gap:0 16px;}
+    .block{padding-top:13px;margin-top:13px;break-inside:auto;}
+    .block > .railhead{font-size:8pt;}
+    .railhead .sub{font-size:7.4pt;}
+    .entry{margin-top:12px;break-inside:avoid;}
+    .what h3{font-size:11pt;}
+    .org{font-size:8.6pt;margin-bottom:5px;}
+    li{margin-bottom:2.5px;}
+    table,.stack dd,ol.pubs{font-size:8.8pt;}
+    ol.pubs li{margin-bottom:5px;break-inside:avoid;}
+    td{padding:5px 10px 5px 0;}
+    .doi{font-size:7.6pt;}
+    .pubyear{margin:11px 0 6px;break-after:avoid;}
+    .degree{break-inside:avoid;}
+    .colophon{margin-top:22px;}
+  }
+</style>
+</head>
+<body>
+<main class="sheet">
+
+  <header class="masthead">
+    <h1 class="name">Abu Bakar Siddique <span class="postnom">Dr. rer. nat.</span></h1>
+    <p class="role">Bioinformatics Engineer · Computational Biologist <span class="place">— Uppsala, Sweden</span></p>
+    <p class="contact">
+      <a href="mailto:abu.siddique@slu.se">abu.siddique@slu.se</a><span class="sep">·</span><a href="mailto:abu.ba.siddi@gmail.com">abu.ba.siddi@gmail.com</a><br>
+      <a href="https://abu85.github.io/abu-bakar-siddique/">Website</a><span class="sep">·</span><a href="https://www.slu.se/en/profilepages/s/abu-siddique/">SLU</a><span class="sep">·</span><a href="https://www.slubi.se/abu.html">SLUBI</a><span class="sep">·</span><a href="https://github.com/abu85">GitHub @abu85</a><span class="sep">·</span><a href="https://orcid.org/0000-0002-3178-523X">ORCID 0000-0002-3178-523X</a><span class="sep">·</span><a href="https://www.linkedin.com/in/abu-bakar-siddique-11541861/">LinkedIn</a><span class="sep">·</span>ResearcherID R-1776-2018
+    </p>
+    <p class="ledger">
+      <span><b>19</b> peer-reviewed papers <b>·</b> 6 first author</span>
+      <span><b>13</b> yrs sequencing analysis</span>
+      <span><b>31</b> omics projects delivered</span>
+      <span><b>6</b> courses taught</span>
+      <span><b>3</b> national HPC systems</span>
+    </p>
+  </header>
+
+  <!-- PROFILE -->
+  <section class="block">
+    <div class="railhead">Profile<span class="sub">Bioinformatician, SLUBI</span></div>
+    <div class="body">
+      <p>Bioinformatics engineer with a PhD in molecular ecology and thirteen years turning raw sequencing data into published results. I run the analysis side of SLU's national-facing bioinformatics infrastructure (SLUBI): consultation, pipeline development, and training for research groups across the university.</p>
+      <p>My delivery record spans <strong>31 completed omics projects</strong> — nine amplicon studies (ITS, 16S, 18S, COI), three shotgun metagenomes, eleven bulk RNA-seq and metatranscriptome analyses, six de novo genome assemblies for the Earth BioGenome Project, and a QTL-seq study. I build these as reproducible, version-controlled Nextflow/nf-core and Snakemake workflows on SLURM clusters, and I teach the same practices to PhD students and staff.</p>
+      <p>Unusually for a computational scientist, I came to it through the bench: DNA/RNA extraction, PCR, cloning, and Illumina library preparation. That means I read QC failures as experimental problems, not just as numbers, and I can advise on sampling and library design before a run rather than after it.</p>
+    </div>
+  </section>
+
+  <!-- EXPERTISE -->
+  <section class="block">
+    <div class="railhead">Expertise<span class="sub">What I am hired to do</span></div>
+    <div class="body">
+      <table>
+        <tbody>
+          <tr><td class="key">Workflow engineering</td><td>Nextflow &amp; nf-core (<span class="doi">rnaseq, mag, ampliseq, metatdenovo, bacass</span>), Snakemake, Bactopia, Earth BioGenome Project, pipeline design and automation</td></tr>
+          <tr><td class="key">HPC &amp; systems</td><td>Linux/Unix, Bash, SLURM, job arrays and parallelisation, SSH/rsync/tmux; NAISS — UPPMAX, PDC Dardel, HPC2N (6+ yrs)</td></tr>
+          <tr><td class="key">Metagenomics</td><td>Amplicon, shotgun and long-read metagenomics; MAG assembly, binning, refinement and dereplication; taxonomic and functional profiling</td></tr>
+          <tr><td class="key">Transcriptomics</td><td>Bulk RNA-seq, metatranscriptomics, QC, alignment and quantification, differential expression, GO/KO enrichment, batch-effect control</td></tr>
+          <tr><td class="key">Genomics</td><td>HiFi, Hi-C and Iso-Seq assembly; scaffolding, polishing, QC and annotation; pangenomes; mitogenomes; variant calling and QTL-seq</td></tr>
+          <tr><td class="key">Programming</td><td>Python (pandas, NumPy, SciPy, scikit-learn, Biopython), R (tidyverse, phyloseq, vegan, DESeq2, lme4), Bash, SQL</td></tr>
+          <tr><td class="key">Reproducibility</td><td>Git/GitHub, Docker, Singularity/Apptainer, Conda, Pixi, Quarto, R Markdown, Jupyter; SRA/ENA/Zenodo deposition</td></tr>
+          <tr><td class="key">Statistics</td><td>GLM/GLMM and mixed-effects models, compositional data analysis (CLR/ILR/Aitchison), PERMANOVA, TUKEY test, ordination (PCA/PCoA/NMDS/db-RDA), network analysis</td></tr>
+          <tr><td class="key">Wet lab</td><td>DNA/RNA extraction, PCR and RT-qPCR, cloning, primer design, Illumina library prep (ITS), Sanger sequencing, bacterial culturing, clonning & transformation, fungal culturing, virus isolation</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section class="block">
+    <div class="railhead">Experience<span class="sub">2012 — present</span></div>
+    <div class="body">
+
+      <div class="entry">
+        <div class="when">Jun 2024<br>— present<br><span class="now">Current</span></div>
+        <div class="what">
+          <h3>Bioinformatician — SLU Bioinformatics Infrastructure (SLUBI)</h3>
+          <p class="org">Department of Plant Biology, Swedish University of Agricultural Sciences, Uppsala</p>
+          <ul>
+            <li>Serve as the analysis lead for metagenomics, metatranscriptomics and RNA-seq within SLUBI, the infrastructure providing bioinformatics support and training to researchers across SLU's Ultuna, Umeå and Alnarp campuses.</li>
+            <li>Consult on project design and deliver end-to-end analyses for research groups — scoping the question, choosing the method, running it on HPC, and handing back documented code alongside results.</li>
+            <li>Build and maintain reproducible Nextflow/nf-core and Snakemake workflows with containerised environments, so analyses can be rerun by the group that commissioned them.</li>
+            <li>Design and teach the SLUBI–SIDA researcher course on reproducible bioinformatics, Nextflow and nf-core, plus four PhD-level courses in RNA-seq, multi-omics, genomic selection and scientific data visualisation.</li>
+            <li>Run drop-in support and troubleshooting for HPC access, environment management and pipeline failures across NAISS systems.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="when">Feb 2022<br>— May 2024</div>
+        <div class="what">
+          <h3>Research Engineer</h3>
+          <p class="org">Department of Plant Biology, SLU, Uppsala</p>
+          <ul>
+            <li>Delivered advanced analyses on metagenomic, metatranscriptomic and transcriptomic datasets for multidisciplinary plant-science and environmental projects.</li>
+            <li>Contributed the metabarcoding and eDNA analysis underpinning the 34-year airborne eDNA biodiversity study in <em>Nature Communications</em> (2025) and the bryophyte phenology study in <em>Journal of Ecology</em> (2025).</li>
+            <li>Ran the transcriptomic analyses for four virology and crop-pathology collaborations, published in <em>BMC Plant Biology</em>, <em>Molecular Plant-Microbe Interactions</em> and <em>Phytopathology</em>.</li>
+            <li>Introduced workflow-manager-based analysis and version-controlled code sharing to project teams previously working with ad-hoc scripts.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="when">Jan 2022<br>— Feb 2022</div>
+        <div class="what">
+          <h3>Senior Research Engineer</h3>
+          <p class="org">Department of Ecology &amp; Environmental Sciences, Umeå University</p>
+          <ul>
+            <li>Provided computational support for environmental metagenomics and airborne eDNA work on the SweBITS programme.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="when">Jan 2020<br>— Jan 2022</div>
+        <div class="what">
+          <h3>Postdoctoral Research Fellow</h3>
+          <p class="org">Department of Ecology &amp; Environmental Sciences, Umeå University</p>
+          <ul>
+            <li>Analysed a <strong>34-year archive of weekly aerosol filters</strong> from northern Sweden within SweBITS (Swedish Biodiversity in Time and Space), reconstructing fungal and wider biodiversity trends from airborne eDNA.</li>
+            <li>Assembled reference genomes for forest fungal pathogens and traced them through the air-filter sequence archive to establish a basis for early-warning biosurveillance.</li>
+            <li>Integrated sequence-derived community data with weather and land-use records to model seasonal patterns and outbreak risk.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="when">Jul 2018<br>— Oct 2019</div>
+        <div class="what">
+          <h3>Postdoctoral Research Fellow — Virology</h3>
+          <p class="org">Institute of Plant Molecular Biology, Biology Centre CAS, České Budějovice, Czech Republic</p>
+          <ul>
+            <li>Identified and characterised mycoviruses in endophytic and pathogenic forest fungi, combining dsRNA/total RNA extraction, RT-PCR, cloning and phylogenetics with expression analysis.</li>
+            <li>Investigated how viral infection alters fungal growth, and the potential of mycoviruses as biological control agents against fungal plant disease.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="when">Dec 2013<br>— May 2017</div>
+        <div class="what">
+          <h3>PhD Researcher</h3>
+          <p class="org">Institute of Botany &amp; Landscape Ecology, Greifswald University, Germany</p>
+          <ul>
+            <li>Developed a <strong>cost-effective fungal metabarcoding protocol</strong> for Illumina sequencing, since adopted and widely cited as a reference method for ITS amplicon library construction.</li>
+            <li>Demonstrated strong seasonal turnover in phyllosphere fungal communities across altitudinally distinct habitats over two years, linking community structure to leaf biochemistry, microclimate and habitat.</li>
+            <li>Ran the full pipeline — field sampling, library preparation, sequencing and bioinformatic analysis — for beech and aspen mycobiome studies.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="when">Jul 2012<br>— Sep 2012</div>
+        <div class="what">
+          <h3>Research Assistant</h3>
+          <p class="org">Department of Plant Physiology, UPSC, Umeå University</p>
+          <ul>
+            <li>Molecular identification of fungal endophytes in European aspen; foundation for subsequent MSc and PhD work.</li>
+          </ul>
+        </div>
+      </div>
+
+      <p class="note">Family leave, approximately nine months following PhD studies (2017–2018).</p>
+    </div>
+  </section>
+
+  <!-- DELIVERY -->
+  <section class="block">
+    <div class="railhead">Delivery<span class="sub">Completed end-to-end: QC → processing → statistics → report</span></div>
+    <div class="body">
+      <table>
+        <thead>
+          <tr><th>Class</th><th style="text-align:right;padding-right:16px;">n</th><th>Detail</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="key">Amplicon / metabarcoding</td><td class="n">9</td>
+            <td>ITS — aspen leaf endophytes; ITS — beech leaf endophytes; ITS — rye seed &amp; soil; ITS — seed metagenomics (empty vs. filled); 18S — arbuscular mycorrhizal fungi in environmental samples; COI — wildflower-associated terrestrial arthropods; 16S — rye seed &amp; soil; 16S — river water, Bangladesh; 16S — human gut microbiome</td>
+          </tr>
+          <tr>
+            <td class="key">Shotgun metagenomics</td><td class="n">3</td>
+            <td>Airborne eDNA filter archive; alder leaf-litter; human gut microbiome — assembly, binning, MAG refinement, functional profiling</td>
+          </tr>
+          <tr>
+            <td class="key">RNA-seq &amp; metatranscriptomics</td><td class="n">11</td>
+            <td>Sugar beet ×2; potato ×3; <em>Brassica oleracea</em> ×2; red clover ×2; bioreactor metatranscriptome; DGE, GO/KO enrichment and functional interpretation throughout</td>
+          </tr>
+          <tr>
+            <td class="key">De novo genome assembly</td><td class="n">6</td>
+            <td>Earth BioGenome Project — 4 plant accessions, 2 fungal isolates; HiFi + Hi-C assembly, scaffolding, QC and annotation</td>
+          </tr>
+          <tr>
+            <td class="key">Other genomics</td><td class="n">2</td>
+            <td>Sugar beet QTL-seq; red clover genome assembly, annotation and pangenome construction</td>
+          </tr>
+          <tr>
+            <td class="key">Microbial genomics</td><td class="n">—</td>
+            <td>Bacterial genome assembly, annotation and antimicrobial-resistance determination</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="note"><strong>Method development.</strong> Co-developed a low-cost, high-efficiency fungal metabarcoding protocol and analysis strategy for Illumina sequencing (<em>Fungal Ecology</em> 2016; <em>Applied Sciences</em> 2022), making large-sample mycobiome studies affordable. <strong>Data stewardship.</strong> Raw and processed data deposited to SRA, ENA and Zenodo; analysis code released via GitHub (40 repositories, including public teaching material on R, shotgun metagenomics and ITS amplicon workflows).</p>
+    </div>
+  </section>
+
+  <!-- TOOLS -->
+  <section class="block">
+    <div class="railhead">Stack<span class="sub">In production use</span></div>
+    <div class="body">
+      <dl class="stack">
+        <dt>Workflow &amp; infrastructure</dt>
+        <dd>Nextflow; nf-core/rnaseq, /mag, /ampliseq, /metatdenovo, /bacass; Snakemake; Bactopia; Linux/Unix; Bash; SSH; rsync; tmux; SLURM; NAISS (UPPMAX, PDC Dardel, HPC2N); FASTQ/BAM/VCF/GFF at scale</dd>
+
+        <dt>Containers &amp; environments</dt>
+        <dd>Docker; Singularity/Apptainer; Conda; Pixi</dd>
+
+        <dt>Metagenomics &amp; microbial ecology</dt>
+        <dd>QIIME2; DADA2; Kraken2; Bracken; MetaPhlAn; HUMAnN; PICRUSt2; eggNOG-mapper; FunGuild; MEGAHIT; metaSPAdes; SPAdes; metaFlye; Canu; hifiasm; MetaBAT2; MaxBin2; CONCOCT; COMEBin; MetaBinner; SemiBin2; dRep; CheckM; GTDB-Tk</dd>
+
+        <dt>Transcriptomics</dt>
+        <dd>FastQC; Cutadapt; Trimmomatic; MultiQC; STAR; HISAT2; bwa-mem2; BBMap; Salmon; Kallisto; DESeq2; edgeR; limma-voom; clusterProfiler; GO/KO; ComBat-seq; SVA; Harmony</dd>
+
+        <dt>Genome assembly &amp; annotation</dt>
+        <dd>hifiasm; pairtools; YaHS; QUAST; BUSCO; merqury/meryl; MitoHiFi; Prokka; Bakta; ANI comparison; assembly QC</dd>
+
+        <dt>Phylogenetics</dt>
+        <dd>MAFFT; IQ-TREE; RAxML; MrBayes; FastTree; phangorn; ape; phytools; MEGA</dd>
+
+        <dt>Programming &amp; data science</dt>
+        <dd>Python (pandas, NumPy, SciPy, scikit-learn, Biopython, matplotlib, seaborn); R (tidyverse, ggplot2, ComplexHeatmap, phyloseq, vegan, DESeq2, MaAsLin2, lme4); Bash; SQL; RStudio; Jupyter</dd>
+
+        <dt>Statistics</dt>
+        <dd>Experimental design; GLM/GLMM/GAM; mixed-effects models; compositional data analysis (CLR, ILR, Aitchison); PCA, PCoA, NMDS, db-RDA; PERMANOVA and dispersion tests; alpha/beta diversity; bipartite and ecological network analysis</dd>
+
+        <dt>Reporting &amp; sharing</dt>
+        <dd>Git/GitHub; Quarto; R Markdown; Jupyter; Shiny; Plotly; publication-quality figures; SRA/ENA/Zenodo deposition</dd>
+      </dl>
+    </div>
+  </section>
+
+  <!-- TEACHING -->
+  <section class="block">
+    <div class="railhead">Teaching<span class="sub">6 graduate &amp; researcher courses</span></div>
+    <div class="body">
+      <table>
+        <thead>
+          <tr><th>Course</th><th>Role</th><th>Contribution</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="key" style="white-space:normal;">SLUBI–SIDA: Reproducible Bioinformatics, Nextflow &amp; nf-core <span style="font-weight:400;color:var(--rail);">(researcher)</span></td>
+            <td>Instructor</td>
+            <td>FAIR principles; workflow managers; building and running nf-core pipelines; containerisation; GitHub-based collaboration</td>
+          </tr>
+          <tr>
+            <td class="key" style="white-space:normal;">Analysis of High-Throughput RNA-Seq Data <span style="font-weight:400;color:var(--rail);">(PhD)</span></td>
+            <td>Co-instructor</td>
+            <td>HPC setup; nf-core/rnaseq; QC and alignment-metric interpretation; DESeq2 and GO/KO enrichment in R; biological interpretation clinics</td>
+          </tr>
+          <tr>
+            <td class="key" style="white-space:normal;">Multi-omics Analyses of the Microbial Community <span style="font-weight:400;color:var(--rail);">(PhD)</span></td>
+            <td>Co-instructor</td>
+            <td>Metagenomics, metatranscriptomics, metaproteomics and metabolomics; assembly strategies; functional annotation; multi-omics integration via Nextflow</td>
+          </tr>
+          <tr>
+            <td class="key" style="white-space:normal;">Data Handling &amp; High-Quality Illustrations for Publications <span style="font-weight:400;color:var(--rail);">(PhD)</span></td>
+            <td>Lead instructor</td>
+            <td>Reproducible data management in R; programmatic dataset merging; multi-panel ggplot2 figures; DOI-based open-science sharing; one-week campus course plus independent project</td>
+          </tr>
+          <tr>
+            <td class="key" style="white-space:normal;">Genome-Wide Predictions in Breeding <span style="font-weight:400;color:var(--rail);">(PhD)</span></td>
+            <td>Co-instructor</td>
+            <td>Linux and R foundations; tool and package setup; SNP calling and variant QC; GWAS workflows; genomic prediction with mixed models</td>
+          </tr>
+          <tr>
+            <td class="key" style="white-space:normal;">MedBioInfo — Swedish National Graduate School in Medical Bioinformatics <span style="font-weight:400;color:var(--rail);">(PhD)</span></td>
+            <td>TA / guest</td>
+            <td>Genome-scale pipelines; statistical modelling; reproducibility; hands-on R and Bash</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- SUPERVISION -->
+  <section class="block">
+    <div class="railhead">Supervision<span class="sub">2013 — 2022</span></div>
+    <div class="body">
+      <table>
+        <tbody>
+          <tr><td class="n" style="text-align:left;padding-right:20px;">2022</td><td class="key" style="white-space:normal;">Md Jonaid Hossain</td><td>Mentor (intern)</td></tr>
+          <tr><td class="n" style="text-align:left;padding-right:20px;">2021</td><td class="key" style="white-space:normal;">Khan R. Salehin</td><td>Co-supervisor (intern)</td></tr>
+          <tr><td class="n" style="text-align:left;padding-right:20px;">2021</td><td class="key" style="white-space:normal;">Master's thesis student</td><td>Co-supervisor</td></tr>
+          <tr><td class="n" style="text-align:left;padding-right:20px;">2016</td><td class="key" style="white-space:normal;">Anis Mahmud Khokon</td><td>Co-supervisor, MSc thesis — led to co-authorship in <em>MycoKeys</em> (2017)</td></tr>
+          <tr><td class="n" style="text-align:left;padding-right:20px;">2013</td><td class="key" style="white-space:normal;">One PhD, two BSc students</td><td>Project supervision</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- EDUCATION -->
+  <section class="block">
+    <div class="railhead">Education</div>
+    <div class="body">
+
+      <div class="entry">
+        <div class="when">2017</div>
+        <div class="what degree">
+          <h3>Dr. rer. nat. (PhD), Molecular Ecology</h3>
+          <p class="inst">Greifswald University, Germany</p>
+          <p class="thesis">Cumulative thesis: <em>Leaf-inhabiting mycobiomes under different environmental conditions — local habitat conditions, leaf biochemistry and seasonal variations drive fungal community dynamics.</em> Supervisor: PD Dr. Martin Unterseher. <a href="https://nbn-resolving.org/urn:nbn:de:gbv:9-002881-5">Thesis</a></p>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="when">2013</div>
+        <div class="what degree">
+          <h3>MSc, Ecology (2 yr)</h3>
+          <p class="inst">Umeå University, Sweden</p>
+          <p class="thesis">Thesis: <em>The role of endophytic fungi in aspen leaves in the presence and absence of beetle damage.</em> Supervisor: Assoc. Prof. Benedicte R. Albrectsen. Admitted with a full tuition waiver. <a href="https://umu.diva-portal.org/smash/record.jsf?pid=diva2:655908">Thesis</a></p>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="when">2010</div>
+        <div class="what degree">
+          <h3>MSc, Plant Pathology</h3>
+          <p class="inst">Sher-e-Bangla Agricultural University, Bangladesh</p>
+          <p class="thesis">Thesis: <em>Efficacy of Trichoderma and selected botanicals in controlling leaf blight of mustard and disease variability of the pathogen.</em></p>
+        </div>
+      </div>
+
+      <div class="entry">
+        <div class="when">2008</div>
+        <div class="what degree">
+          <h3>BSc (Hons), Agricultural Sciences (4 yr)</h3>
+          <p class="inst">Sher-e-Bangla Agricultural University, Bangladesh</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- PUBLICATIONS -->
+  <section class="block">
+    <div class="railhead">Publications<span class="sub">19 peer-reviewed · 6 first or sole author, marked with a rule</span></div>
+    <div class="body">
+
+      <p class="pubyear">2026</p>
+      <ol class="pubs" start="1">
+        <li>Roy S, Nemes K, Saripella GV, Vetukuri RR, <strong>Siddique AB</strong>, Savenkov EI. Comparative transcriptome profiling of <em>Nicotiana benthamiana</em> plants infected with potato mop-top virus and its mutant lacking a gene for the 8K protein underlines the role of chloroplasts during infection. <em>Molecular Plant-Microbe Interactions</em> 39(3):351–366. <a class="doi" href="https://doi.org/10.1094/MPMI-10-25-0146-R">doi:10.1094/MPMI-10-25-0146-R</a></li>
+        <li>Kong ZH, Stangl M, Oester R, Rehnstam S, Futter M, <strong>Siddique AB</strong>, Bundschuh M, McKie BG. Medical facemask waste alters detritus decomposition and fungal communities in a freshwater pond. <em>Scientific Reports</em> 16:10597. <a class="doi" href="https://doi.org/10.1038/s41598-026-45795-5">doi:10.1038/s41598-026-45795-5</a></li>
+      </ol>
+
+      <p class="pubyear">2025</p>
+      <ol class="pubs" start="3">
+        <li>Sullivan AR, Karlsson E, Svensson D, Brindefalk B, Lozano Villegas JA, Mikko A, Bellieny D, <strong>Siddique AB</strong>, Johansson AM, Grahn H, Sundell D, et al., Stenberg P. Airborne eDNA captures three decades of ecosystem biodiversity. <em>Nature Communications</em> 16:11281. <a class="doi" href="https://doi.org/10.1038/s41467-025-67676-7">doi:10.1038/s41467-025-67676-7</a></li>
+        <li>Puthanveed V, Sajeevan RS, <strong>Siddique AB</strong>, Alexandersson E, Joshi P, Snell P, Lennefors BL, Kvarnheden A. Transcriptomic responses of beet to infection by beet mild yellowing virus. <em>BMC Plant Biology</em> 25:1–17. <a class="doi" href="https://doi.org/10.1186/s12870-025-07514-6">doi:10.1186/s12870-025-07514-6</a></li>
+        <li>Bengtsson F, Cronberg N, Lozano Villegas JA, <strong>Siddique AB</strong>, Stenberg P, Ekroos J. Rapid shifts in bryophyte phenology revealed by airborne eDNA. <em>Journal of Ecology</em>. <a class="doi" href="https://doi.org/10.1111/1365-2745.70180">doi:10.1111/1365-2745.70180</a></li>
+      </ol>
+
+      <p class="pubyear">2024</p>
+      <ol class="pubs" start="6">
+        <li>Islam MM, Deepo DM, <strong>Siddique AB</strong>, Nasif SO, Zonayet M, Hassan O, Siddique AB, Ali MA. B chromosomes in wheat: evolution, functions and breeding potential. <em>Agronomy</em> 14(11):2682. <a class="doi" href="https://doi.org/10.3390/agronomy14112682">doi:10.3390/agronomy14112682</a></li>
+      </ol>
+
+      <p class="pubyear">2023</p>
+      <ol class="pubs" start="7">
+        <li class="lead"><strong>Siddique AB</strong>, Menke L, Dinedurga M, Albrectsen BR. Molecular studies of rust on European aspen suggest an autochthonous relationship shaped by genotype. <em>Frontiers in Plant Science</em> 14:1111001. <a class="doi" href="https://doi.org/10.3389/fpls.2023.1111001">doi:10.3389/fpls.2023.1111001</a></li>
+        <li>Puthanveed V, Singh K, Poimenopoulou E, Pettersson J, <strong>Siddique AB</strong>, Kvarnheden A. Milder autumns may increase risk for infection of crops with turnip yellows virus. <em>Phytopathology</em> 113(9):1788–1798. <a class="doi" href="https://doi.org/10.1094/PHYTO-11-22-0446-V">doi:10.1094/PHYTO-11-22-0446-V</a></li>
+        <li>Nasif SO, <strong>Siddique AB</strong>, Siddique AB, Islam MM, Hassan O, Deepo DM, Hossain A. Prospects of endophytic fungi as a natural resource for the sustainability of crop production in the modern era of changing climate. <em>Symbiosis</em> 89:1–25. <a class="doi" href="https://doi.org/10.1007/s13199-022-00879-4">doi:10.1007/s13199-022-00879-4</a></li>
+      </ol>
+
+      <p class="pubyear">2022</p>
+      <ol class="pubs" start="10">
+        <li class="lead"><strong>Siddique AB</strong>, Albrectsen BR, Ilbi H, Siddique AB. Optimization of protocol for construction of fungal ITS amplicon library for high-throughput Illumina sequencing to study the mycobiome of aspen leaves. <em>Applied Sciences</em> 12(3):1136. <a class="doi" href="https://doi.org/10.3390/app12031136">doi:10.3390/app12031136</a></li>
+        <li>Islam MM, Deepo DM, Nasif SO, <strong>Siddique AB</strong>, Hassan O, Siddique AB, Paul NC. Cytogenetics and consequences of polyploidization on different biotic–abiotic stress tolerance and the potential mechanisms involved. <em>Plants</em> 11(20):2684. <a class="doi" href="https://doi.org/10.3390/plants11202684">doi:10.3390/plants11202684</a></li>
+      </ol>
+
+      <p class="pubyear">2021</p>
+      <ol class="pubs" start="12">
+        <li class="lead"><strong>Siddique AB</strong>, Biella P, Unterseher M, Albrectsen BR. Mycobiomes of young beech trees are distinguished by organ rather than by habitat, and community analyses suggest competitive interactions among twig fungi. <em>Frontiers in Microbiology</em> 12:646302. <a class="doi" href="https://doi.org/10.3389/fmicb.2021.646302">doi:10.3389/fmicb.2021.646302</a></li>
+      </ol>
+
+      <p class="pubyear">2020</p>
+      <ol class="pubs" start="13">
+        <li class="lead"><strong>Siddique AB</strong>. Viruses of endophytic and pathogenic forest fungi. <em>Virus Genes</em> — sole author. <a class="doi" href="https://doi.org/10.1007/s11262-020-01763-3">doi:10.1007/s11262-020-01763-3</a></li>
+      </ol>
+
+      <p class="pubyear">2019</p>
+      <ol class="pubs" start="14">
+        <li>Petrzik K, <strong>Siddique AB</strong>. A mycoparasitic and opportunistic fungus is inhabited by a mycovirus. <em>Archives of Virology</em>. <a class="doi" href="https://doi.org/10.1007/s00705-019-04359-x">doi:10.1007/s00705-019-04359-x</a></li>
+      </ol>
+
+      <p class="pubyear">2018</p>
+      <ol class="pubs" start="15">
+        <li>Albrectsen BR, <strong>Siddique AB</strong>, Decker VHG, Unterseher M, Robinson KM. Both plant genotype and herbivory shape aspen endophyte communities. <em>Oecologia</em>. <a class="doi" href="https://doi.org/10.1007/s00442-018-4097-3">doi:10.1007/s00442-018-4097-3</a></li>
+        <li>Unterseher M, Karunarathna SC, Cruz GR, Dagamac NH, Dahl MB, <strong>Siddique AB</strong>, et al. Mycobiomes of sympatric <em>Amorphophallus albispathus</em> (Araceae) and <em>Camellia sinensis</em> (Theaceae) — a case study reveals clear tissue preferences and differences in diversity and composition. <em>Mycological Progress</em>. <a class="doi" href="https://doi.org/10.1007/s11557-018-1375-8">doi:10.1007/s11557-018-1375-8</a></li>
+      </ol>
+
+      <p class="pubyear">2017</p>
+      <ol class="pubs" start="17">
+        <li class="lead"><strong>Siddique AB</strong>, Khokon AM, Unterseher M. What do we learn from cultures in the omics age? High-throughput sequencing and cultivation of leaf-inhabiting endophytes from beech (<em>Fagus sylvatica</em> L.) revealed complementary community composition but similar correlations with local habitat conditions. <em>MycoKeys</em> 20:1–16. <a class="doi" href="https://doi.org/10.3897/mycokeys.20.11265">doi:10.3897/mycokeys.20.11265</a></li>
+      </ol>
+
+      <p class="pubyear">2016</p>
+      <ol class="pubs" start="18">
+        <li>Unterseher M, <strong>Siddique AB</strong>, Brachmann A, Peršoh D. Diversity and composition of the leaf mycobiome of beech (<em>Fagus sylvatica</em>) are affected by local habitat conditions and leaf biochemistry. <em>PLOS ONE</em> 11(4):e0152878. <a class="doi" href="https://doi.org/10.1371/journal.pone.0152878">doi:10.1371/journal.pone.0152878</a></li>
+        <li class="lead"><strong>Siddique AB</strong>, Unterseher M. A cost-effective and efficient strategy for Illumina sequencing of fungal communities: a case study of beech endophytes identified elevation as main explanatory factor for diversity and community composition. <em>Fungal Ecology</em> 20:175–185. <a class="doi" href="https://doi.org/10.1016/j.funeco.2015.12.009">doi:10.1016/j.funeco.2015.12.009</a></li>
+      </ol>
+
+      <p class="note">Manuscripts in review and in preparation available on request. Full list via <a href="https://orcid.org/0000-0002-3178-523X">ORCID</a> and the <a href="https://publications.slu.se/?file=pers/show&amp;cid=212678613&amp;lang=en">SLU publication database</a>.</p>
+    </div>
+  </section>
+
+  <!-- INTERESTS -->
+  <section class="block">
+    <div class="railhead">Research<span class="sub">Where I want to go next</span></div>
+    <div class="body">
+      <table>
+        <tbody>
+          <tr><td class="key">Environmental metagenomics</td><td>Airborne eDNA for biodiversity monitoring and pest/pathogen surveillance; metabarcoding methodology; fungal community ecology; plant–fungi–insect interaction</td></tr>
+          <tr><td class="key">Transcriptomics &amp; multi-omics</td><td>Differential expression and functional interpretation; metatranscriptomics; integration of omics layers; machine-learning approaches to omics data</td></tr>
+          <tr><td class="key">Programmes</td><td>SweBITS (Swedish Biodiversity in Time and Space); TanAsp (aspen mycobiome and metabolites); Earth BioGenome Project assemblies; mycoviruses; beech leaf endophytes</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- SERVICE -->
+  <section class="block">
+    <div class="railhead">Service<span class="sub">Community &amp; profession</span></div>
+    <div class="body">
+      <table>
+        <tbody>
+          <tr><td class="key">Peer review</td><td>British Ecological Society journals; <em>PLOS ONE</em>; <em>Frontiers in Microbiology</em></td></tr>
+          <tr><td class="key">Governance</td><td>Board member, Umeå Postdoc Society</td></tr>
+          <tr><td class="key">Networks</td><td>International Mycological Congress; Biodiversity Genomics; COST Actions FA1405 &amp; FA1103; German Mycological Society (DGfM); International Mycological Society</td></tr>
+          <tr><td class="key">Funding &amp; awards</td><td>Seven competitive travel grants (~€10,000 total, 2014–2019); COST Action FA1405 Short-Term Scientific Mission grant (2017); full tuition waiver, MSc Ecology, Umeå University</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- PRESENTATIONS -->
+  <section class="block">
+    <div class="railhead">Talks &amp; CPD<span class="sub">Selected</span></div>
+    <div class="body">
+      <table>
+        <tbody>
+          <tr><td class="key">Talks</td><td>COST Action FA1405 annual meeting, Malta (2018); German Mycological Society (DGfM), Bernried, Germany (2016); <em>Screening of Endophyte Functions and Diversity</em>, Budapest (2015)</td></tr>
+          <tr><td class="key">Posters</td><td>Nordic Oikos, Iceland (2020); COST FA1405 final meeting, Thessaloniki (2019); DGfM, Saarland, Germany (2014); 10th International Mycological Congress, Bangkok (2014); KBC Days, UPSC, Umeå (2012)</td></tr>
+          <tr><td class="key">Training</td><td>Swedish Bioinformatics Workshop, Uppsala (2024); RaukR Advanced R for Bioinformatics, Visby (2023); NBIS Introduction to Bioinformatics using NGS Data (2022); Introduction to Python for Bioinformatics, Uppsala (2020); HPC2N &amp; Linux, Umeå (2020); Presentation Skills for Young Scientists, Biology Centre CAS (2019); Ecological Network Analysis of Multispecies Interactions, IPB Bragança (2017); Academic Writing, Greifswald Graduate Academy (2016); Fungal Metabarcoding, Greifswald (2015)</td></tr>
+          <tr><td class="key">Conferences</td><td>Nextflow Summit (2025); Breeding 360, SLU Breeding Network (2025); Biodiversity Genomics (2020, 2021, 2022)</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- LANGUAGES -->
+  <section class="block">
+    <div class="railhead">Languages</div>
+    <div class="body">
+      <table>
+        <tbody>
+          <tr><td class="key">English</td><td>Fluent — working language</td></tr>
+          <tr><td class="key">Bengali</td><td>Native</td></tr>
+          <tr><td class="key">Swedish</td><td>Basic</td></tr>
+          <tr><td class="key">German</td><td>Beginner</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer class="colophon">
+    <span>Abu Bakar Siddique · Bioinformatics Engineer &amp; Computational Biologist</span>
+    <span>Uppsala, Sweden · August 2026</span>
+  </footer>
+
+</main>
+</body>
+</html>
