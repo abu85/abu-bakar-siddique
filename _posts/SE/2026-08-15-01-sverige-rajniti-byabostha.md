@@ -6,6 +6,7 @@ tags: [politics, election, vol, 2026, Sweden ]
 header:
   teaser: /images/thumnail/se-election.jpeg
 ---
+
 # পর্ব ১: সুইডেনের রাজনৈতিক ব্যবস্থা — একদম গোড়া থেকে
 
 *সিরিজ: সুইডিশ রাজনীতি*
