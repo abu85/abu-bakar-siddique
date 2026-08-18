@@ -2,12 +2,12 @@
 layout: single
 title: "সুইডেনের রাজনীতিতে ইসলাম ও মুসলিমরা"
 categories: SE
-tags: [politics, election, vol, year 2026, Sweden ]
+tags: [politics, election, vol, year 2026, Sweden, muslim, islam ]
 header:
-  teaser: /images/thumnail/
+  teaser: /images/thumnail/se-election.jpeg
 ---
 
-# পর্ব ৮: ইসলাম ও মুসলিমরা — কোন দলের নীতি আপনাকে কীভাবে স্পর্শ করে
+# পর্ব ৮: ইসলাম ও মুসলিমরা — কোন দলের নীতি কীভাবে স্পর্শ করে
 
 *সিরিজ: সুইডিশ রাজনীতি*
 
@@ -189,4 +189,4 @@ Brå-র গবেষণা অনুযায়ী ইসলামোফোব
 
 [**পর্ব ৭:** ব্যবহারিক নির্দেশিকা — röstkort, তিনটি ব্যালট, ব্যক্তিগত ভোট (personröst), আগাম ভোট, এবং প্রথমবার ভোট দিতে গিয়ে কী কী জানা দরকার।](https://abu85.github.io/abu-bakar-siddique/se/07-kivabe-vote-diben/)
 
-[**পর্ব ৮:** ইসলাম ও মুসলিমরা — কোন দলের নীতি আপনাকে কীভাবে স্পর্শ করে](https://abu85.github.io/abu-bakar-siddique/se/08-islam-muslim-o-sweden-rajniti/)
+[**পর্ব ৮:** ইসলাম ও মুসলিমরা — কোন দলের নীতি কীভাবে স্পর্শ করে](https://abu85.github.io/abu-bakar-siddique/se/08-islam-muslim-o-sweden-rajniti/)

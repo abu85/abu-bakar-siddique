@@ -4,7 +4,7 @@ title: "সুইডেনের রাজনৈতিক দুই ব্লক
 categories: SE
 tags: [politics, election, vol, year 2026, Sweden ]
 header:
-  teaser: /images/thumnail/
+  teaser: /images/thumnail/se-election.jpeg
 ---
 
 # পর্ব ৪: দুই ব্লক — কীভাবে তৈরি হলো, ভাঙল, আবার গড়ে উঠল

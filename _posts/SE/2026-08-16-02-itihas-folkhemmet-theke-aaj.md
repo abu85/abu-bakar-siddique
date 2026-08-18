@@ -4,7 +4,7 @@ title: "সুইডেনের রাজনৈতিক ইতিহাস"
 categories: SE
 tags: [politics, election, vol, year 2026, Sweden ]
 header:
-  teaser: /images/thumnail/
+  teaser: /images/thumnail/se-election.jpeg
 ---
 # পর্ব ২: ইতিহাস — দরিদ্র কৃষিদেশ থেকে *ফোকহেম* হয়ে আজকের সুইডেন
 

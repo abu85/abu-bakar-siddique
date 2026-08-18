@@ -4,7 +4,7 @@ title: "সুইডেনের রাজনৈতিক আটটি দল"
 categories: SE
 tags: [politics, election, vol, year 2026, Sweden ]
 header:
-  teaser: /images/thumnail/
+  teaser: /images/thumnail/se-election.jpeg
 ---
 
 # পর্ব ৩: আটটি দল — কে কোথা থেকে এল, কে কী চায়

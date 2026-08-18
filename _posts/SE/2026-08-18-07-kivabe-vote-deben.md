@@ -4,7 +4,7 @@ title: "সুইডেনের ভোট — ব্যবহারিক ন�
 categories: SE
 tags: [politics, election, vol, year 2026, Sweden ]
 header:
-  teaser: /images/thumnail/
+  teaser: /images/thumnail/se-election.jpeg
 ---
 
 # পর্ব ৭: প্রথমবার ভোট দিতে যাচ্ছেন — ব্যবহারিক নির্দেশিকা

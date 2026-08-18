@@ -4,7 +4,7 @@ title: "সুইডেনের নির্বাচন ২০২৬"
 categories: SE
 tags: [politics, election, vol, year 2026, Sweden ]
 header:
-  teaser: /images/thumnail/
+  teaser: /images/thumnail/se-election.jpeg
 ---
 
 # পর্ব ৬: নির্বাচন ২০২৬ — দুই ব্লক, দুই ইশতেহার
