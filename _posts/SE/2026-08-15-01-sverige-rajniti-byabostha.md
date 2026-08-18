@@ -4,7 +4,7 @@ title: "সুইডেনের রাজনৈতিক ব্যবস্থ�
 categories: SE
 tags: [politics, election, vol, year 2026, Sweden ]
 header:
-  teaser: /images/thumnail/
+  teaser: [/images/thumnail/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI6I70rP5SvI0hZWYJadaT1A7zQlc-zZpTJHhukFLVrIr4-Dpyrt5fFnD2P7GzHzer&s=10&ec=121924526)
 ---
 # পর্ব ১: সুইডেনের রাজনৈতিক ব্যবস্থা — একদম গোড়া থেকে
 
