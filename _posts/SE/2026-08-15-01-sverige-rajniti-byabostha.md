@@ -95,12 +95,6 @@ header:
 
 যন্ত্রটা কীভাবে চলে, সেটা এখন আমরা জানি। কিন্তু এই যন্ত্রের ভেতরে যে দলগুলো আছে, তারা এল কোথা থেকে? কেন সুইডিশ রাজনীতি এতটা "শ্রমিক আন্দোলন বনাম বাকি সবাই" ছাঁচে গড়া?
 
-[**পর্ব ২-এ:** সুইডেনের রাজনৈতিক ইতিহাস — দরিদ্র কৃষিনির্ভর দেশ থেকে *ফোকহেম* (folkhemmet) হয়ে আজকের সুইডেন।](https://abu85.github.io/abu-bakar-siddique/se/01-sverige-rajniti-byabostha/)
-
-
-
-[**পর্ব ১:** সুইডেনের রাজনৈতিক ব্যবস্থা — একদম গোড়া থেকে](https://abu85.github.io/abu-bakar-siddique/se/01-sverige-rajniti-byabostha/)
-
 [**পর্ব ২-এ:** সুইডেনের রাজনৈতিক ইতিহাস — দরিদ্র কৃষিনির্ভর দেশ থেকে *ফোকহেম* (folkhemmet) হয়ে আজকের সুইডেন।](https://abu85.github.io/abu-bakar-siddique/se/02-itihas-folkhemmet-theke-aaj/)
 
 [**পর্ব ৩:** সংসদের আটটি দল — কে কোথা থেকে এল, কার শিকড় কোথায়, এবং কে কী চায়।](https://abu85.github.io/abu-bakar-siddique/se/03-aat-doler-porichoy/)
