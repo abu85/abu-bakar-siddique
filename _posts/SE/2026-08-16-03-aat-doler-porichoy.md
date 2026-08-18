@@ -1,3 +1,12 @@
+---
+layout: single
+title: "সুইডেনের রাজনৈতিক আটটি দল"
+categories: SE
+tags: [politics, election, vol, year 2026, Sweden ]
+header:
+  teaser: /images/thumnail/
+---
+
 # পর্ব ৩: আটটি দল — কে কোথা থেকে এল, কে কী চায়
 
 *সিরিজ: নতুন নাগরিকের জন্য সুইডিশ রাজনীতি*

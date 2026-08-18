@@ -1,3 +1,12 @@
+---
+layout: single
+title: "সুইডেনের ভোট — ব্যবহারিক নির্দেশিকা"
+categories: SE
+tags: [politics, election, vol, year 2026, Sweden ]
+header:
+  teaser: /images/thumnail/
+---
+
 # পর্ব ৭: প্রথমবার ভোট দিতে যাচ্ছেন — ব্যবহারিক নির্দেশিকা
 
 *সিরিজ: নতুন নাগরিকের জন্য সুইডিশ রাজনীতি (শেষ পর্ব)*

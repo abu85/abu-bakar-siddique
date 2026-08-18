@@ -1,3 +1,11 @@
+---
+layout: single
+title: "সুইডেনের রাজনৈতিক ব্যবস্থা"
+categories: SE
+tags: [politics, election, vol, year 2026, Sweden ]
+header:
+  teaser: /images/thumnail/
+---
 # পর্ব ১: সুইডেনের রাজনৈতিক ব্যবস্থা — একদম গোড়া থেকে
 
 *সিরিজ: নতুন নাগরিকের জন্য সুইডিশ রাজনীতি*

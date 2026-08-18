@@ -1,3 +1,12 @@
+---
+layout: single
+title: "সুইডেনের নির্বাচন ২০২৬"
+categories: SE
+tags: [politics, election, vol, year 2026, Sweden ]
+header:
+  teaser: /images/thumnail/
+---
+
 # পর্ব ৬: নির্বাচন ২০২৬ — দুই ব্লক, দুই ইশতেহার
 
 *সিরিজ: নতুন নাগরিকের জন্য সুইডিশ রাজনীতি*

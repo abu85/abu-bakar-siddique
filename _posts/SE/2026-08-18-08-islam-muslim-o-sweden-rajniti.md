@@ -1,3 +1,12 @@
+---
+layout: single
+title: "সুইডেনের রাজনীতিতে ইসলাম ও মুসলিমরা"
+categories: SE
+tags: [politics, election, vol, year 2026, Sweden ]
+header:
+  teaser: /images/thumnail/
+---
+
 # পর্ব ৮: ইসলাম ও মুসলিমরা — কোন দলের নীতি আপনাকে কীভাবে স্পর্শ করে
 
 *সিরিজ: নতুন নাগরিকের জন্য সুইডিশ রাজনীতি*
