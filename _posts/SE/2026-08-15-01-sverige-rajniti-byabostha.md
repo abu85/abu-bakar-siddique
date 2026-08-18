@@ -2,7 +2,7 @@
 layout: single
 title: "সুইডেনের রাজনৈতিক ব্যবস্থা"
 categories: SE
-tags: [politics, election, vol, 2026, Sweden ]
+tags: [politics, election, vol, "2026", Sweden ]
 header:
   teaser: /images/thumnail/se-election.jpeg
 ---
