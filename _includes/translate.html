@@ -2,7 +2,11 @@
 <script type="text/javascript">
   function googleTranslateElementInit() {
     new google.translate.TranslateElement(
-      { pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE },
+      {
+        pageLanguage: 'auto',
+        includedLanguages: 'en,bn,sv,de,no,fi,hi,es,fr,de,ar,zh-CN,ja,ko,ru,pt,it,tr,pl,th,vi,id,ms,tl,uk,ro,hu,cs,da,el,he',
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+      },
       'google_translate_element'
     );
   }

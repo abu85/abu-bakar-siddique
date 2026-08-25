@@ -1,11 +1,12 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
-search: false
+search: true
 ---
 
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
 .goog-te-banner-frame { display: none !important; }
 body { top: 0 !important; }
