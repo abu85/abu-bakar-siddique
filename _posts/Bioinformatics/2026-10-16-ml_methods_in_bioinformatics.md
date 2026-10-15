@@ -12,7 +12,7 @@ header:
 *From raw NGS signal to images · genomics → transcriptomics → metagenomics → metatranscriptomics → multi-omics*
 *ML4LS — machine learning for life science & agriculture · October 2026*
 
----
+
 
 ## Contents
 
