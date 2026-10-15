@@ -10,7 +10,6 @@ main:
     url: /training/
   - title: "CV"
     url: /assets/html/Abu_Bakar_Siddique_CV_2026-08-13.html
-    external: true
   - title: "Blog"
     url: /categories/
   #- title: "Tag"

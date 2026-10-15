@@ -3,6 +3,9 @@ layout: single
 permalink: /teaching/
 author_profile: true
 classes: wide
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
 
 <head>

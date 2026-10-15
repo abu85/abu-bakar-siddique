@@ -3,6 +3,9 @@ layout: single
 permalink: /training/
 author_profile: true
 classes: wide
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
 
 <head>
@@ -374,8 +377,8 @@ Visit GLITTR for the full interactive platform
 </a>
 </p>
 
-[def]: ttps://abu85.github.io/Pixi-in-bioinformatics/modules/nextflow_rnaseq_analysis.htm
-[def2]: ttps://abu85.github.io/nfcore_metagenomics_training
+[def]: https://abu85.github.io/Pixi-in-bioinformatics/modules/nextflow_rnaseq_analysis.htm
+[def2]: https://github.com/abu85/shotgun_metagenomic_data_analysis
 
 
 General Information
