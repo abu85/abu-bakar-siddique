@@ -42,7 +42,7 @@ header:
   - [9. Software stack](#9-software-stack)
   - [10. Further reading](#10-further-reading)
 
----
+-----
 
 ## 1. Legend
 
@@ -55,7 +55,7 @@ header:
 | **FM** | Pretrained foundation / language model | ESM, AlphaFold, Evo 2, Geneformer, UNI |
 | *non-ML* | Algorithmic/statistical step, listed for context | alignment, assembly, GLM-based DE testing |
 
----
+-----
 
 ## 2. The big picture — workflow
 
@@ -107,7 +107,7 @@ flowchart LR
 | Multi-omics | MOFA+, DIABLO, SNF | GNN / VAE integration (MOGONET, GLUE), knowledge graphs |
 | Images | U-Net, Cellpose / StarDist, RF pixel classifiers, YOLO | SAM-based segmentation, pathology & geospatial foundation models |
 
----
+------
 
 ## 4. Core ML method families
 
@@ -135,7 +135,7 @@ flowchart LR
 | Multiple-instance learning | Attention MIL (ABMIL), CLAM, TransMIL | DL | Labels at bag level (slide, sample) | Whole-slide pathology, m6A site detection (m6Anet) |
 | Interpretability | Coefficients, permutation importance, SHAP, integrated gradients, DeepLIFT, TF-MoDISco | — | Turn predictions into biology | Biomarker ranking, motif discovery from DL attributions |
 
----
+------
 
 ## 5. Methods by domain
 
@@ -361,7 +361,7 @@ flowchart LR
 | Pose estimation & behaviour | CNN / transformer keypoint models (DL) | DeepLabCut, SLEAP |
 | Detection, identification, body condition | CNN detectors / classifiers (DL) | YOLO, fine-tuned ResNet |
 
----
+-----
 
 ## 6. Generic ML workflow for omics
 
@@ -392,7 +392,7 @@ flowchart TD
   EX --> R[Report: DOME / TRIPOD+AI]
 ```
 
----
+-----
 
 ## 7. Omics-specific pitfalls
 
@@ -409,7 +409,7 @@ flowchart TD
 | Misleading importance | RF impurity importance with correlated / high-cardinality features | Permutation / conditional importance, SHAP, stability across folds |
 | Benchmark hype | Foundation models | Always compare with simple baselines on your own data |
 
----
+-----
 
 ## 8. Quick decision guide
 
@@ -427,7 +427,7 @@ flowchart TD
 | Unannotated proteins | ESM embeddings + kNN / logistic regression | Foldseek + AlphaFold structures; CLEAN for EC |
 | NIR / hyperspectral spectra | PLS-R | SVM / RF, 1D-CNN |
 
----
+-----
 
 ## 9. Software stack
 
@@ -443,7 +443,7 @@ flowchart TD
 | Interpretability | DALEX, iml, vip, fastshap | SHAP, Captum, tfmodisco-lite |
 | Workflow & reproducibility | targets, renv, Quarto | Snakemake, Nextflow / nf-core, MLflow, Optuna |
 
----
+-----
 
 ## 10. Further reading
 
@@ -457,6 +457,6 @@ flowchart TD
 - Wirbel J et al. (2021) Microbiome meta-analysis and cross-disease comparison enabled by the SIAMCAT machine learning toolbox. *Genome Biol*.
 - Montesinos-López OA et al. (2021) A review of deep learning applications for genomic selection. *BMC Genomics*.
 
----
+-----
 
 *Tool landscape as of mid-2026; check versions before use — basecallers, foundation models and single-cell tools change quickly.*
